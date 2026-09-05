@@ -1,0 +1,4374 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Novae",
+      "pages": [
+        {
+          "slug": "comic/novae-test",
+          "label": "September 29, 2016 - Novae Chap 1 Cover"
+        },
+        {
+          "slug": "comic/chap-1-pg01",
+          "label": "October 7, 2016 - Chap 1 - PG01"
+        },
+        {
+          "slug": "comic/chap-1-pg02",
+          "label": "October 7, 2016 - Chap 1 - PG02"
+        },
+        {
+          "slug": "comic/chap-1-pg03-04",
+          "label": "October 7, 2016 - Chap 1 - PG03-04"
+        },
+        {
+          "slug": "comic/chap-1-pg05",
+          "label": "October 7, 2016 - Chap 1 - PG05"
+        },
+        {
+          "slug": "comic/chap-1-pg06",
+          "label": "October 7, 2016 - Chap 1 - PG06"
+        },
+        {
+          "slug": "comic/chap-1-pg07",
+          "label": "October 9, 2016 - Chap 1 \u2013 PG07"
+        },
+        {
+          "slug": "comic/chap-1-pg08",
+          "label": "October 12, 2016 - Chap 1 \u2013 PG08"
+        },
+        {
+          "slug": "comic/chap-1-pg09",
+          "label": "October 16, 2016 - Chap 1 \u2013 PG09"
+        },
+        {
+          "slug": "comic/chap-1-pg10",
+          "label": "October 19, 2016 - Chap 1 \u2013 PG10"
+        },
+        {
+          "slug": "comic/chap-1-pg11",
+          "label": "October 23, 2016 - Chap 1 \u2013 PG11"
+        },
+        {
+          "slug": "comic/chap-1-pg12",
+          "label": "October 26, 2016 - Chap 1 \u2013 PG12"
+        },
+        {
+          "slug": "comic/chap-1-pg13",
+          "label": "October 30, 2016 - Chap 1 \u2013 PG13"
+        },
+        {
+          "slug": "comic/chap-1-pg14",
+          "label": "November 2, 2016 - Chap 1 \u2013 PG14"
+        },
+        {
+          "slug": "comic/chap-1-pg15",
+          "label": "November 6, 2016 - Chap 1 \u2013 PG15"
+        },
+        {
+          "slug": "comic/chap-1-pg16",
+          "label": "November 9, 2016 - Chap 1 \u2013 PG16"
+        },
+        {
+          "slug": "comic/chap-1-pg17",
+          "label": "November 13, 2016 - Chap 1 \u2013 PG17"
+        },
+        {
+          "slug": "comic/chap-1-pg18",
+          "label": "November 16, 2016 - Chap 1 \u2013 PG18"
+        },
+        {
+          "slug": "comic/chap-1-pg19",
+          "label": "November 20, 2016 - Chap 1 \u2013 PG19"
+        },
+        {
+          "slug": "comic/chap-1-pg20",
+          "label": "November 21, 2016 - Chap 1 \u2013 PG20"
+        },
+        {
+          "slug": "comic/chap-1-pg21-22",
+          "label": "November 23, 2016 - Chap 1 \u2013 PG21-22"
+        },
+        {
+          "slug": "comic/chap-1-pg23",
+          "label": "November 27, 2016 - Chap 1 \u2013 PG23"
+        },
+        {
+          "slug": "comic/chap-1-pg24",
+          "label": "November 30, 2016 - Chap 1 \u2013 PG24"
+        },
+        {
+          "slug": "comic/chap-1-pg25",
+          "label": "December 4, 2016 - Chap 1 \u2013 PG25"
+        },
+        {
+          "slug": "comic/chap-1-pg26",
+          "label": "December 7, 2016 - Chap 1 \u2013 PG26"
+        },
+        {
+          "slug": "comic/chap-1-pg27",
+          "label": "December 11, 2016 - Chap 1 \u2013 PG27"
+        },
+        {
+          "slug": "comic/chap-1-pg28",
+          "label": "December 14, 2016 - Chap 1 \u2013 PG28"
+        },
+        {
+          "slug": "comic/chap-1-pg29",
+          "label": "December 18, 2016 - Chap 1 \u2013 PG29"
+        },
+        {
+          "slug": "comic/chap-1-pg30",
+          "label": "December 21, 2016 - Chap 1 \u2013 PG30"
+        },
+        {
+          "slug": "comic/chap-1-pg31",
+          "label": "December 25, 2016 - Chap 1 \u2013 PG31"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "A Blanket of Stars",
+      "pages": [
+        {
+          "slug": "comic/chapter-2-a-blanket-of-stars",
+          "label": "December 28, 2016 - Chapter 2  - A Blanket of Stars"
+        },
+        {
+          "slug": "comic/chap-2-pg32-33",
+          "label": "January 1, 2017 - Chap 2 \u2013 PG32-33"
+        },
+        {
+          "slug": "comic/chap-2-pg34",
+          "label": "January 4, 2017 - Chap 2 \u2013 PG34"
+        },
+        {
+          "slug": "comic/chap-2-pg35",
+          "label": "January 8, 2017 - Chap 2 \u2013 PG35"
+        },
+        {
+          "slug": "comic/chap-2-pg36",
+          "label": "January 11, 2017 - Chap 2 \u2013 PG36"
+        },
+        {
+          "slug": "comic/chap-2-pg37",
+          "label": "January 15, 2017 - Chap 2 \u2013 PG37"
+        },
+        {
+          "slug": "comic/chap-2-pg38",
+          "label": "January 18, 2017 - Chap 2 \u2013 PG38"
+        },
+        {
+          "slug": "comic/chap-2-pg39",
+          "label": "January 22, 2017 - Chap 2 \u2013 PG39"
+        },
+        {
+          "slug": "comic/chap-2-pg40",
+          "label": "January 25, 2017 - Chap 2 \u2013 PG40"
+        },
+        {
+          "slug": "comic/chap-2-pg41",
+          "label": "January 29, 2017 - Chap 2 \u2013 PG41"
+        },
+        {
+          "slug": "comic/chap-2-pg42",
+          "label": "February 1, 2017 - Chap 2 \u2013 PG42"
+        },
+        {
+          "slug": "comic/chap-2-pg43",
+          "label": "February 5, 2017 - Chap 2 \u2013 PG43"
+        },
+        {
+          "slug": "comic/chap-2-pg44",
+          "label": "February 8, 2017 - Chap 2 \u2013 PG44"
+        },
+        {
+          "slug": "comic/chap-2-pg45",
+          "label": "February 12, 2017 - Chap 2 \u2013 PG45"
+        },
+        {
+          "slug": "comic/chap-2-pg46",
+          "label": "February 15, 2017 - Chap 2 \u2013 PG46"
+        },
+        {
+          "slug": "comic/chap-2-pg47",
+          "label": "February 19, 2017 - Chap 2 \u2013 PG47"
+        },
+        {
+          "slug": "comic/chap-2-pg48",
+          "label": "February 22, 2017 - Chap 2 \u2013 PG48"
+        },
+        {
+          "slug": "comic/chap-2-pg49",
+          "label": "February 26, 2017 - Chap 2 \u2013 PG49"
+        },
+        {
+          "slug": "comic/chap-2-pg50",
+          "label": "March 1, 2017 - Chap 2 \u2013 PG50"
+        },
+        {
+          "slug": "comic/chap-2-pg51",
+          "label": "March 5, 2017 - Chap 2 \u2013 PG51"
+        },
+        {
+          "slug": "comic/chap-2-pg52",
+          "label": "March 8, 2017 - Chap 2 \u2013 PG52"
+        },
+        {
+          "slug": "comic/chap-2-pg53",
+          "label": "March 12, 2017 - Chap 2 \u2013 PG53"
+        },
+        {
+          "slug": "comic/chap-2-pg54",
+          "label": "March 15, 2017 - Chap 2 \u2013 PG54"
+        },
+        {
+          "slug": "comic/chap-2-pg55",
+          "label": "March 19, 2017 - Chap 2 \u2013 PG55"
+        },
+        {
+          "slug": "comic/chap-2-pg56",
+          "label": "March 22, 2017 - Chap 2 \u2013 PG56"
+        },
+        {
+          "slug": "comic/chap-2-pg57",
+          "label": "March 26, 2017 - Chap 2 \u2013 PG57"
+        },
+        {
+          "slug": "comic/chap-2-pg58",
+          "label": "March 29, 2017 - Chap 2 \u2013 PG58"
+        },
+        {
+          "slug": "comic/chap-2-pg59",
+          "label": "April 2, 2017 - Chap 2 \u2013 PG59"
+        },
+        {
+          "slug": "comic/chap-2-pg60-61",
+          "label": "April 5, 2017 - Chap 2 \u2013 PG60-61"
+        },
+        {
+          "slug": "comic/chap-2-pg62",
+          "label": "April 9, 2017 - Chap 2 \u2013 PG62"
+        },
+        {
+          "slug": "comic/chap-2-pg63",
+          "label": "April 12, 2017 - Chap 2 \u2013 PG63"
+        },
+        {
+          "slug": "comic/chap-2-pg64",
+          "label": "April 16, 2017 - Chap 2 \u2013 PG64"
+        },
+        {
+          "slug": "comic/chap-2-pg65",
+          "label": "April 19, 2017 - Chap 2 \u2013 PG65"
+        },
+        {
+          "slug": "comic/chap-2-pg66",
+          "label": "April 23, 2017 - Chap 2 \u2013 PG66"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Space Between / Gravity",
+      "pages": [
+        {
+          "slug": "comic/chapter-3-the-space-between-part-1",
+          "label": "April 26, 2017 - Chapter 3 - The Space Between - Part 1"
+        },
+        {
+          "slug": "comic/chap-3-pg67",
+          "label": "May 1, 2017 - Chap 3 \u2013 PG67"
+        },
+        {
+          "slug": "comic/chap-3-pg68",
+          "label": "May 3, 2017 - Chap 3 \u2013 PG68"
+        },
+        {
+          "slug": "comic/chap-3-pg69",
+          "label": "May 7, 2017 - Chap 3 \u2013 PG69"
+        },
+        {
+          "slug": "comic/chap-3-pg70",
+          "label": "May 10, 2017 - Chap 3 \u2013 PG70"
+        },
+        {
+          "slug": "comic/chap-3-pg71",
+          "label": "May 14, 2017 - Chap 3 \u2013 PG71"
+        },
+        {
+          "slug": "comic/chap-3-pg72",
+          "label": "May 17, 2017 - Chap 3 \u2013 PG72"
+        },
+        {
+          "slug": "comic/chap-3-pg73",
+          "label": "May 21, 2017 - Chap 3 \u2013 PG73"
+        },
+        {
+          "slug": "comic/chap-3-pg74",
+          "label": "May 24, 2017 - Chap 3 \u2013 PG74"
+        },
+        {
+          "slug": "comic/chap-3-pg75",
+          "label": "May 28, 2017 - Chap 3 \u2013 PG75 - 76"
+        },
+        {
+          "slug": "comic/chap-3-pg77",
+          "label": "May 31, 2017 - Chap 3 \u2013 PG77"
+        },
+        {
+          "slug": "comic/chap-3-pg78",
+          "label": "June 4, 2017 - Chap 3 \u2013 PG78"
+        },
+        {
+          "slug": "comic/chap-3-pg79",
+          "label": "June 7, 2017 - Chap 3 \u2013 PG79"
+        },
+        {
+          "slug": "comic/chap-3-pg80",
+          "label": "June 11, 2017 - Chap 3 \u2013 PG80"
+        },
+        {
+          "slug": "comic/chap-3-pg81",
+          "label": "June 14, 2017 - Chap 3 \u2013 PG81"
+        },
+        {
+          "slug": "comic/chap-3-pg82",
+          "label": "June 18, 2017 - Chap 3 \u2013 PG82"
+        },
+        {
+          "slug": "comic/chap-3-pg83",
+          "label": "June 21, 2017 - Chap 3 \u2013 PG83"
+        },
+        {
+          "slug": "comic/chap-3-pg84",
+          "label": "June 25, 2017 - Chap 3 \u2013 PG84"
+        },
+        {
+          "slug": "comic/chap-3-pg85",
+          "label": "June 28, 2017 - Chap 3 \u2013 PG85"
+        },
+        {
+          "slug": "comic/chap-3-pg86",
+          "label": "July 2, 2017 - Chap 3 \u2013 PG86"
+        },
+        {
+          "slug": "comic/chap-3-pg87",
+          "label": "July 5, 2017 - Chap 3 \u2013 PG87"
+        },
+        {
+          "slug": "comic/chap-3-pg88",
+          "label": "July 9, 2017 - Chap 3 \u2013 PG88"
+        },
+        {
+          "slug": "comic/chap-3-bonus",
+          "label": "July 12, 2017 - Chap 3 \u2013 Bonus"
+        },
+        {
+          "slug": "comic/chapter-3-gravity-part-2",
+          "label": "July 16, 2017 - Chapter 3 \u2013 Gravity  \u2013 Part 2"
+        },
+        {
+          "slug": "comic/chap-3-pg89",
+          "label": "July 19, 2017 - Chap 3 \u2013 PG89"
+        },
+        {
+          "slug": "comic/chap-3-pg90",
+          "label": "July 23, 2017 - Chap 3 \u2013 PG90"
+        },
+        {
+          "slug": "comic/chap-3-pg91",
+          "label": "July 26, 2017 - Chap 3 \u2013 PG91"
+        },
+        {
+          "slug": "comic/chap-3-pg92",
+          "label": "July 30, 2017 - Chap 3 \u2013 PG92"
+        },
+        {
+          "slug": "comic/chap-3-pg93",
+          "label": "August 2, 2017 - Chap 3 \u2013 PG93"
+        },
+        {
+          "slug": "comic/chap-3-pg94",
+          "label": "August 6, 2017 - Chap 3 \u2013 PG94"
+        },
+        {
+          "slug": "comic/chap-3-pg95",
+          "label": "August 9, 2017 - Chap 3 \u2013 PG95"
+        },
+        {
+          "slug": "comic/chap-3-pg96",
+          "label": "August 13, 2017 - Chap 3 \u2013 PG96"
+        },
+        {
+          "slug": "comic/chap-3-pg97",
+          "label": "August 16, 2017 - Chap 3 \u2013 PG97"
+        },
+        {
+          "slug": "comic/chap-3-pg98",
+          "label": "August 20, 2017 - Chap 3 \u2013 PG98"
+        },
+        {
+          "slug": "comic/chap-3-pg99",
+          "label": "August 23, 2017 - Chap 3 \u2013 PG99"
+        },
+        {
+          "slug": "comic/chap-3-pg100",
+          "label": "August 27, 2017 - Chap 3 \u2013 PG100"
+        },
+        {
+          "slug": "comic/chap-3-pg101",
+          "label": "August 30, 2017 - Chap 3 \u2013 PG101"
+        },
+        {
+          "slug": "comic/chap-3-pg102",
+          "label": "September 3, 2017 - Chap 3 \u2013 PG102"
+        },
+        {
+          "slug": "comic/chap-3-pg103",
+          "label": "September 6, 2017 - Chap 3 \u2013 PG103"
+        },
+        {
+          "slug": "comic/chap-3-pg104",
+          "label": "September 10, 2017 - Chap 3 \u2013 PG104"
+        },
+        {
+          "slug": "comic/chap-3-pg105",
+          "label": "September 13, 2017 - Chap 3 \u2013 PG105"
+        },
+        {
+          "slug": "comic/chap-3-pg106",
+          "label": "September 17, 2017 - Chap 3 \u2013 PG106"
+        },
+        {
+          "slug": "comic/chap-3-pg107",
+          "label": "September 20, 2017 - Chap 3 \u2013 PG107"
+        },
+        {
+          "slug": "comic/chap-3-pg108",
+          "label": "September 24, 2017 - Chap 3 \u2013 PG108"
+        },
+        {
+          "slug": "comic/chap-3-pg109",
+          "label": "September 27, 2017 - Chap 3 \u2013 PG109"
+        },
+        {
+          "slug": "comic/chap-3-pg110",
+          "label": "October 1, 2017 - Chap 3 \u2013 PG110"
+        },
+        {
+          "slug": "comic/chap-3-pg111",
+          "label": "October 4, 2017 - Chap 3 \u2013 PG111"
+        },
+        {
+          "slug": "comic/bonus-prose-1",
+          "label": "October 8, 2017 - Bonus Prose 1"
+        },
+        {
+          "slug": "comic/bonus-prose-2",
+          "label": "October 15, 2017 - Bonus Prose 2"
+        },
+        {
+          "slug": "comic/chap-3-bonus-2-lil-huygens",
+          "label": "October 22, 2017 - Chap 3 - Bonus 2 - L'il Huygens"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Dancing Flames",
+      "pages": [
+        {
+          "slug": "comic/chapter-4-dancing-flames",
+          "label": "October 25, 2017 - Chapter 4 - Dancing Flames"
+        },
+        {
+          "slug": "comic/chapter-4-pg112",
+          "label": "October 29, 2017 - Chapter 4 \u2013 PG112"
+        },
+        {
+          "slug": "comic/chap-4-pg113",
+          "label": "November 1, 2017 - Chap 4 \u2013 PG113"
+        },
+        {
+          "slug": "comic/chap-4-pg114",
+          "label": "November 5, 2017 - Chap 4 \u2013 PG114"
+        },
+        {
+          "slug": "comic/chap-4-pg115",
+          "label": "November 8, 2017 - Chap 4 \u2013 PG115"
+        },
+        {
+          "slug": "comic/chap-4-pg116",
+          "label": "November 12, 2017 - Chap 4 \u2013 PG116"
+        },
+        {
+          "slug": "comic/chap-4-pg117",
+          "label": "November 15, 2017 - Chap 4 \u2013 PG117"
+        },
+        {
+          "slug": "comic/chap-4-pg118",
+          "label": "November 19, 2017 - Chap 4 \u2013 PG118"
+        },
+        {
+          "slug": "comic/chap-4-pg119",
+          "label": "November 22, 2017 - Chap 4 \u2013 PG119"
+        },
+        {
+          "slug": "comic/chap-4-pg120",
+          "label": "November 26, 2017 - Chap 4 \u2013 PG120"
+        },
+        {
+          "slug": "comic/chap-4-pg121",
+          "label": "November 29, 2017 - Chap 4 \u2013 PG121"
+        },
+        {
+          "slug": "comic/chap-4-pg122",
+          "label": "December 3, 2017 - Chap 4 \u2013 PG122"
+        },
+        {
+          "slug": "comic/chap-4-pg123",
+          "label": "December 6, 2017 - Chap 4 \u2013 PG123"
+        },
+        {
+          "slug": "comic/chap-4-pg124",
+          "label": "December 10, 2017 - Chap 4 \u2013 PG124"
+        },
+        {
+          "slug": "comic/chap-4-pg125",
+          "label": "December 13, 2017 - Chap 4 \u2013 PG125"
+        },
+        {
+          "slug": "comic/chap-4-pg126",
+          "label": "December 17, 2017 - Chap 4 \u2013 PG126"
+        },
+        {
+          "slug": "comic/chap-4-pg127",
+          "label": "December 20, 2017 - Chap 4 \u2013 PG127"
+        },
+        {
+          "slug": "comic/chap-4-pg128",
+          "label": "December 24, 2017 - Chap 4 \u2013 PG128"
+        },
+        {
+          "slug": "comic/chap-4-pg129",
+          "label": "December 27, 2017 - Chap 4 \u2013 PG129"
+        },
+        {
+          "slug": "comic/chap-4-pg130",
+          "label": "December 31, 2017 - Chap 4 \u2013 PG130"
+        },
+        {
+          "slug": "comic/chap-4-pg131",
+          "label": "January 3, 2018 - Chap 4 \u2013 PG131"
+        },
+        {
+          "slug": "comic/chap-4-pg132",
+          "label": "January 7, 2018 - Chap 4 \u2013 PG132"
+        },
+        {
+          "slug": "comic/chap-4-pg133",
+          "label": "January 10, 2018 - Chap 4 \u2013 PG133"
+        },
+        {
+          "slug": "comic/chap-4-pg134",
+          "label": "January 14, 2018 - Chap 4 \u2013 PG134"
+        },
+        {
+          "slug": "comic/chap-4-pg135",
+          "label": "January 17, 2018 - Chap 4 \u2013 PG135"
+        },
+        {
+          "slug": "comic/chap-4-pg136",
+          "label": "January 21, 2018 - Chap 4 \u2013 PG136"
+        },
+        {
+          "slug": "comic/chap-4-pg137",
+          "label": "January 24, 2018 - Chap 4 \u2013 PG137"
+        },
+        {
+          "slug": "comic/chap-4-pg138",
+          "label": "January 28, 2018 - Chap 4 \u2013 PG138"
+        },
+        {
+          "slug": "comic/chap-4-pg139",
+          "label": "January 31, 2018 - Chap 4 \u2013 PG139"
+        },
+        {
+          "slug": "comic/chap-4-pg140",
+          "label": "February 4, 2018 - Chap 4 \u2013 PG140"
+        },
+        {
+          "slug": "comic/chap-4-pg141",
+          "label": "February 7, 2018 - Chap 4 \u2013 PG141"
+        },
+        {
+          "slug": "comic/chap-4-pg142",
+          "label": "February 11, 2018 - Chap 4 \u2013 PG142"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Hidden Forces",
+      "pages": [
+        {
+          "slug": "comic/chapter-5-hidden-forces-part-1",
+          "label": "February 18, 2018 - Chapter 5 - Hidden Forces - Part 1"
+        },
+        {
+          "slug": "comic/chap-5-pg143",
+          "label": "February 21, 2018 - Chap 5 \u2013 PG143"
+        },
+        {
+          "slug": "comic/chap-5-pg144",
+          "label": "February 25, 2018 - Chap 5 \u2013 PG144"
+        },
+        {
+          "slug": "comic/chap-5-pg145",
+          "label": "February 28, 2018 - Chap 5 \u2013 PG145"
+        },
+        {
+          "slug": "comic/chap-5-pg146",
+          "label": "March 4, 2018 - Chap 5 \u2013 PG146"
+        },
+        {
+          "slug": "comic/chap-5-pg147",
+          "label": "March 7, 2018 - Chap 5 \u2013 PG147"
+        },
+        {
+          "slug": "comic/chap-5-pg148",
+          "label": "March 11, 2018 - Chap 5 \u2013 PG148"
+        },
+        {
+          "slug": "comic/chap-5-pg149",
+          "label": "March 14, 2018 - Chap 5 \u2013 PG149"
+        },
+        {
+          "slug": "comic/chap-5-pg150",
+          "label": "March 18, 2018 - Chap 5 \u2013 PG150"
+        },
+        {
+          "slug": "comic/chap-5-pg151",
+          "label": "March 21, 2018 - Chap 5 \u2013 PG151"
+        },
+        {
+          "slug": "comic/chap-5-pg152",
+          "label": "March 25, 2018 - Chap 5 \u2013 PG152"
+        },
+        {
+          "slug": "comic/chap-5-pg153",
+          "label": "March 28, 2018 - Chap 5 \u2013 PG153"
+        },
+        {
+          "slug": "comic/chap-5-pg154",
+          "label": "April 1, 2018 - Chap 5 \u2013 PG154"
+        },
+        {
+          "slug": "comic/chap-5-pg155",
+          "label": "April 4, 2018 - Chap 5 \u2013 PG155"
+        },
+        {
+          "slug": "comic/chap-5-pg156",
+          "label": "April 8, 2018 - Chap 5 \u2013 PG156"
+        },
+        {
+          "slug": "comic/chap-5-pg157",
+          "label": "April 11, 2018 - Chap 5 \u2013 PG157"
+        },
+        {
+          "slug": "comic/chap-5-pg158",
+          "label": "April 15, 2018 - Chap 5 \u2013 PG158"
+        },
+        {
+          "slug": "comic/chap-5-pg159",
+          "label": "April 18, 2018 - Chap 5 \u2013 PG159"
+        },
+        {
+          "slug": "comic/chap-5-pg160",
+          "label": "April 22, 2018 - Chap 5 \u2013 PG160"
+        },
+        {
+          "slug": "comic/chap-5-pg161",
+          "label": "April 25, 2018 - Chap 5 \u2013 PG161"
+        },
+        {
+          "slug": "comic/chap-5-pg162",
+          "label": "April 29, 2018 - Chap 5 \u2013 PG162"
+        },
+        {
+          "slug": "comic/chap-5-pg163",
+          "label": "May 2, 2018 - Chap 5 \u2013 PG163"
+        },
+        {
+          "slug": "comic/chap-5-pg164",
+          "label": "May 6, 2018 - Chap 5 \u2013 PG164"
+        },
+        {
+          "slug": "comic/chapter-5-penumbra-part-2",
+          "label": "May 9, 2018 - Chapter 5 - Penumbra - Part 2"
+        },
+        {
+          "slug": "comic/chap-5-pg165",
+          "label": "May 14, 2018 - Chap 5 \u2013 PG165"
+        },
+        {
+          "slug": "comic/chap-5-pg166",
+          "label": "May 16, 2018 - Chap 5 \u2013 PG166"
+        },
+        {
+          "slug": "comic/chap-5-pg167",
+          "label": "May 20, 2018 - Chap 5 \u2013 PG167"
+        },
+        {
+          "slug": "comic/chap-5-pg168",
+          "label": "May 23, 2018 - Chap 5 \u2013 PG168"
+        },
+        {
+          "slug": "comic/chap-5-pg169",
+          "label": "May 27, 2018 - Chap 5 \u2013 PG169"
+        },
+        {
+          "slug": "comic/chap-5-pg170",
+          "label": "May 30, 2018 - Chap 5 \u2013 PG170"
+        },
+        {
+          "slug": "comic/chap-5-pg172",
+          "label": "June 5, 2018 - Chap 5 \u2013 PG172"
+        },
+        {
+          "slug": "comic/chap-5-pg173",
+          "label": "June 6, 2018 - Chap 5 \u2013 PG173"
+        },
+        {
+          "slug": "comic/chap-5-pg174",
+          "label": "June 10, 2018 - Chap 5 \u2013 PG174"
+        },
+        {
+          "slug": "comic/chap-5-pg175",
+          "label": "June 13, 2018 - Chap 5 \u2013 PG175"
+        },
+        {
+          "slug": "comic/chap-5-pg176",
+          "label": "June 17, 2018 - Chap 5 \u2013 PG176"
+        },
+        {
+          "slug": "comic/chap-5-pg177",
+          "label": "June 20, 2018 - Chap 5 \u2013 PG177"
+        },
+        {
+          "slug": "comic/chap-5-pg178",
+          "label": "June 24, 2018 - Chap 5 \u2013 PG178"
+        },
+        {
+          "slug": "comic/chap-5-pg179",
+          "label": "June 27, 2018 - Chap 5 \u2013 PG179"
+        },
+        {
+          "slug": "comic/chap-5-pg180",
+          "label": "July 1, 2018 - Chap 5 \u2013 PG180"
+        },
+        {
+          "slug": "comic/chap-5-pg181",
+          "label": "July 4, 2018 - Chap 5 \u2013 PG181"
+        },
+        {
+          "slug": "comic/chap-5-pg182",
+          "label": "July 8, 2018 - Chap 5 \u2013 PG182"
+        },
+        {
+          "slug": "comic/chap-5-pg183",
+          "label": "July 11, 2018 - Chap 5 \u2013 PG183"
+        },
+        {
+          "slug": "comic/chap-5-pg184",
+          "label": "July 15, 2018 - Chap 5 \u2013 PG184"
+        },
+        {
+          "slug": "comic/chap-5-pg185",
+          "label": "July 18, 2018 - Chap 5 \u2013 PG185"
+        },
+        {
+          "slug": "comic/chap-5-pg186",
+          "label": "July 22, 2018 - Chap 5 \u2013 PG186"
+        },
+        {
+          "slug": "comic/chap-5-pg187",
+          "label": "July 25, 2018 - Chap 5 \u2013 PG187"
+        },
+        {
+          "slug": "comic/chap-5-pg188",
+          "label": "July 29, 2018 - Chap 5 \u2013 PG188"
+        },
+        {
+          "slug": "comic/chap-5-pg189",
+          "label": "August 1, 2018 - Chap 5 \u2013 PG189"
+        },
+        {
+          "slug": "comic/chap-5-pg190",
+          "label": "August 5, 2018 - Chap 5 \u2013 PG190"
+        },
+        {
+          "slug": "comic/chap-5-pg191",
+          "label": "August 8, 2018 - Chap 5 \u2013 PG191"
+        },
+        {
+          "slug": "comic/chap-5-pg192",
+          "label": "August 12, 2018 - Chap 5 \u2013 PG192"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Blood and Gold",
+      "pages": [
+        {
+          "slug": "comic/chap-6-blood-and-gold",
+          "label": "August 16, 2018 - Chap 6 \u2013 Blood and Gold"
+        },
+        {
+          "slug": "comic/chap-6-pg193",
+          "label": "August 26, 2018 - Chap 6 \u2013 PG193"
+        },
+        {
+          "slug": "comic/chap-6-pg194",
+          "label": "August 28, 2018 - Chap 6 \u2013 PG194"
+        },
+        {
+          "slug": "comic/chap-6-pg195",
+          "label": "August 29, 2018 - Chap 6 \u2013 PG195"
+        },
+        {
+          "slug": "comic/chap-6-pg196",
+          "label": "September 2, 2018 - Chap 6 \u2013 PG196"
+        },
+        {
+          "slug": "comic/chap-6-pg197",
+          "label": "September 5, 2018 - Chap 6 \u2013 PG197"
+        },
+        {
+          "slug": "comic/chap-6-pg198",
+          "label": "September 9, 2018 - Chap 6 \u2013 PG198"
+        },
+        {
+          "slug": "comic/chap-6-pg199",
+          "label": "September 12, 2018 - Chap 6 \u2013 PG199"
+        },
+        {
+          "slug": "comic/chap-6-pg200",
+          "label": "September 16, 2018 - Chap 6 \u2013 PG200"
+        },
+        {
+          "slug": "comic/chap-6-pg201",
+          "label": "September 19, 2018 - Chap 6 \u2013 PG201"
+        },
+        {
+          "slug": "comic/chap-6-pg202",
+          "label": "September 23, 2018 - Chap 6 \u2013 PG202"
+        },
+        {
+          "slug": "comic/chap-6-pg203",
+          "label": "September 26, 2018 - Chap 6 \u2013 PG203"
+        },
+        {
+          "slug": "comic/chap-6-pg204",
+          "label": "September 30, 2018 - Chap 6 \u2013 PG204"
+        },
+        {
+          "slug": "comic/chap-6-pg205",
+          "label": "October 3, 2018 - Chap 6 \u2013 PG205"
+        },
+        {
+          "slug": "comic/chap-6-pg206",
+          "label": "October 7, 2018 - Chap 6 \u2013 PG206"
+        },
+        {
+          "slug": "comic/chap-6-pg207",
+          "label": "October 10, 2018 - Chap 6 \u2013 PG207"
+        },
+        {
+          "slug": "comic/chap-6-pg208",
+          "label": "October 14, 2018 - Chap 6 \u2013 PG208"
+        },
+        {
+          "slug": "comic/chap-6-pg209",
+          "label": "October 17, 2018 - Chap 6 \u2013 PG209"
+        },
+        {
+          "slug": "comic/chap-6-pg210",
+          "label": "October 21, 2018 - Chap 6 \u2013 PG210"
+        },
+        {
+          "slug": "comic/chap-6-pg211",
+          "label": "October 24, 2018 - Chap 6 \u2013 PG211"
+        },
+        {
+          "slug": "comic/chap-6-pg212",
+          "label": "October 29, 2018 - Chap 6 \u2013 PG212"
+        },
+        {
+          "slug": "comic/chap-6-pg213",
+          "label": "October 31, 2018 - Chap 6 \u2013 PG213"
+        },
+        {
+          "slug": "comic/chap-6-pg214",
+          "label": "November 4, 2018 - Chap 6 \u2013 PG214"
+        },
+        {
+          "slug": "comic/chap-6-pg215",
+          "label": "November 7, 2018 - Chap 6 \u2013 PG215"
+        },
+        {
+          "slug": "comic/chap-6-pg216",
+          "label": "November 11, 2018 - Chap 6 \u2013 PG216"
+        },
+        {
+          "slug": "comic/chap-6-pg217",
+          "label": "November 14, 2018 - Chap 6 \u2013 PG217"
+        },
+        {
+          "slug": "comic/chap-6-pg218",
+          "label": "November 18, 2018 - Chap 6 \u2013 PG218"
+        },
+        {
+          "slug": "comic/chap-6-pg219",
+          "label": "November 21, 2018 - Chap 6 \u2013 PG219"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Invitations",
+      "pages": [
+        {
+          "slug": "comic/chap-7-invitations",
+          "label": "December 10, 2018 - Chap 7 \u2013 Invitations"
+        },
+        {
+          "slug": "comic/chap-7-pg220",
+          "label": "December 12, 2018 - Chap 7 \u2013 PG220"
+        },
+        {
+          "slug": "comic/chap-7-pg221",
+          "label": "December 16, 2018 - Chap 7 \u2013 PG221"
+        },
+        {
+          "slug": "comic/chap-7-pg222",
+          "label": "December 19, 2018 - Chap 7 \u2013 PG222"
+        },
+        {
+          "slug": "comic/chap-7-pg223",
+          "label": "December 24, 2018 - Chap 7 \u2013 PG223"
+        },
+        {
+          "slug": "comic/chap-7-pg224",
+          "label": "December 26, 2018 - Chap 7 \u2013 PG224"
+        },
+        {
+          "slug": "comic/chap-7-pg225",
+          "label": "December 30, 2018 - Chap 7 \u2013 PG225"
+        },
+        {
+          "slug": "comic/chap-7-pg226-227",
+          "label": "January 2, 2019 - Chap 7 \u2013 PG226-227"
+        },
+        {
+          "slug": "comic/chap-7-pg228",
+          "label": "January 9, 2019 - Chap 7 \u2013 PG228"
+        },
+        {
+          "slug": "comic/chap-7-pg229",
+          "label": "January 13, 2019 - Chap 7 \u2013 PG229"
+        },
+        {
+          "slug": "comic/chap-7-pg230",
+          "label": "January 16, 2019 - Chap 7 \u2013 PG230"
+        },
+        {
+          "slug": "comic/chap-7-pg231",
+          "label": "January 20, 2019 - Chap 7 \u2013 PG231"
+        },
+        {
+          "slug": "comic/chap-7-pg232",
+          "label": "January 23, 2019 - Chap 7 \u2013 PG232"
+        },
+        {
+          "slug": "comic/chap-7-pg233",
+          "label": "January 27, 2019 - Chap 7 \u2013 PG233"
+        },
+        {
+          "slug": "comic/chap-7-pg234",
+          "label": "January 30, 2019 - Chap 7 \u2013 PG234"
+        },
+        {
+          "slug": "comic/chap-7-pg235",
+          "label": "February 3, 2019 - Chap 7 \u2013 PG235"
+        },
+        {
+          "slug": "comic/chap-7-pg236",
+          "label": "February 6, 2019 - Chap 7 \u2013 PG236"
+        },
+        {
+          "slug": "comic/chap-7-pg237",
+          "label": "February 10, 2019 - Chap 7 \u2013 PG237"
+        },
+        {
+          "slug": "comic/chap-7-pg238",
+          "label": "February 13, 2019 - Chap 7 \u2013 PG238"
+        },
+        {
+          "slug": "comic/chap-7-pg239",
+          "label": "February 17, 2019 - Chap 7 \u2013 PG239"
+        },
+        {
+          "slug": "comic/chap-7-pg240",
+          "label": "February 20, 2019 - Chap 7 \u2013 PG240"
+        },
+        {
+          "slug": "comic/chap-7-pg241",
+          "label": "February 24, 2019 - Chap 7 \u2013 PG241"
+        },
+        {
+          "slug": "comic/chap-7-pg242",
+          "label": "February 27, 2019 - Chap 7 \u2013 PG242"
+        },
+        {
+          "slug": "comic/chap-7-pg243",
+          "label": "March 3, 2019 - Chap 7 \u2013 PG243"
+        },
+        {
+          "slug": "comic/chap-7-pg244",
+          "label": "March 6, 2019 - Chap 7 \u2013 PG244"
+        },
+        {
+          "slug": "comic/chap-7-pg245",
+          "label": "March 10, 2019 - Chap 7 \u2013 PG245"
+        },
+        {
+          "slug": "comic/chap-7-pg246",
+          "label": "March 13, 2019 - Chap 7 \u2013 PG246"
+        },
+        {
+          "slug": "comic/chap-7-pg247",
+          "label": "March 17, 2019 - Chap 7 \u2013 PG247"
+        },
+        {
+          "slug": "comic/chap-7-pg248",
+          "label": "March 20, 2019 - Chap 7 \u2013 PG248"
+        },
+        {
+          "slug": "comic/chap-7-pg249",
+          "label": "March 24, 2019 - Chap 7 \u2013 PG249"
+        },
+        {
+          "slug": "comic/chap-7-pg250",
+          "label": "March 27, 2019 - Chap 7 \u2013 PG250"
+        },
+        {
+          "slug": "comic/chap-7-pg251",
+          "label": "March 31, 2019 - Chap 7 \u2013 PG251"
+        },
+        {
+          "slug": "comic/chap-7-pg252",
+          "label": "April 3, 2019 - Chap 7 \u2013 PG252"
+        },
+        {
+          "slug": "comic/chap-7-pg253",
+          "label": "April 7, 2019 - Chap 7 \u2013 PG253"
+        },
+        {
+          "slug": "comic/chap-7-pg254",
+          "label": "April 10, 2019 - Chap 7 \u2013 PG254"
+        },
+        {
+          "slug": "comic/chap-7-pg255",
+          "label": "April 14, 2019 - Chap 7 \u2013 PG255"
+        },
+        {
+          "slug": "comic/chap-7-pg256",
+          "label": "April 17, 2019 - Chap 7 \u2013 PG256"
+        },
+        {
+          "slug": "comic/chap-7-pg257",
+          "label": "April 21, 2019 - Chap 7 \u2013 PG257"
+        },
+        {
+          "slug": "comic/chap-7-pg258",
+          "label": "April 24, 2019 - Chap 7 \u2013 PG258"
+        },
+        {
+          "slug": "comic/chap-7-pg259",
+          "label": "April 28, 2019 - Chap 7 \u2013 PG259"
+        },
+        {
+          "slug": "comic/chap-7-pg260",
+          "label": "May 1, 2019 - Chap 7 \u2013 PG260"
+        },
+        {
+          "slug": "comic/chap-7-pg261",
+          "label": "May 5, 2019 - Chap 7 \u2013 PG261"
+        },
+        {
+          "slug": "comic/chap-7-pg262",
+          "label": "May 8, 2019 - Chap 7 \u2013 PG262"
+        },
+        {
+          "slug": "comic/chap-7-pg263",
+          "label": "May 12, 2019 - Chap 7 \u2013 PG263"
+        },
+        {
+          "slug": "comic/chap-7-pg264",
+          "label": "May 15, 2019 - Chap 7 \u2013 PG264"
+        },
+        {
+          "slug": "comic/chap-7-pg265",
+          "label": "May 19, 2019 - Chap 7 \u2013 PG265"
+        },
+        {
+          "slug": "comic/chap-7-pg266",
+          "label": "May 22, 2019 - Chap 7 \u2013 PG266"
+        },
+        {
+          "slug": "comic/chap-7-pg267",
+          "label": "May 27, 2019 - Chap 7 \u2013 PG267"
+        },
+        {
+          "slug": "comic/chap-7-pg268",
+          "label": "May 29, 2019 - Chap 7 \u2013 PG268"
+        },
+        {
+          "slug": "comic/chap-7-pg269",
+          "label": "June 2, 2019 - Chap 7 \u2013 PG269"
+        },
+        {
+          "slug": "comic/chapter-7-extras-1",
+          "label": "June 9, 2019 - Chapter 7 Extras 1"
+        },
+        {
+          "slug": "comic/chapter-7-extras-2",
+          "label": "June 13, 2019 - Chapter 7 Extras 2"
+        },
+        {
+          "slug": "comic/happy-pride-2019",
+          "label": "June 16, 2019 - Happy Pride 2019!"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Earthbound",
+      "pages": [
+        {
+          "slug": "comic/chap-8-earthbound",
+          "label": "June 19, 2019 - Chap 8 \u2013 Earthbound"
+        },
+        {
+          "slug": "comic/chap-8-pg270",
+          "label": "June 23, 2019 - Chap 8 \u2013 PG270"
+        },
+        {
+          "slug": "comic/chap-8-pg271",
+          "label": "June 26, 2019 - Chap 8 \u2013 PG271"
+        },
+        {
+          "slug": "comic/chap-8-pg272",
+          "label": "July 1, 2019 - Chap 8 \u2013 PG272"
+        },
+        {
+          "slug": "comic/chap-8-pg273",
+          "label": "July 4, 2019 - Chap 8 \u2013 PG273"
+        },
+        {
+          "slug": "comic/chap-8-pg274",
+          "label": "July 7, 2019 - Chap 8 \u2013 PG274"
+        },
+        {
+          "slug": "comic/chap-8-pg275",
+          "label": "July 10, 2019 - Chap 8 \u2013 PG275"
+        },
+        {
+          "slug": "comic/chap-8-pg276",
+          "label": "July 14, 2019 - Chap 8 \u2013 PG276"
+        },
+        {
+          "slug": "comic/chap-8-pg277",
+          "label": "July 17, 2019 - Chap 8 \u2013 PG277"
+        },
+        {
+          "slug": "comic/chap-8-pg278",
+          "label": "July 21, 2019 - Chap 8 \u2013 PG278"
+        },
+        {
+          "slug": "comic/chap-8-pg279",
+          "label": "July 24, 2019 - Chap 8 \u2013 PG279"
+        },
+        {
+          "slug": "comic/chap-8-pg280-281",
+          "label": "July 28, 2019 - Chap 8 \u2013 PG280 - 281"
+        },
+        {
+          "slug": "comic/chap-8-pg282",
+          "label": "August 4, 2019 - Chap 8 \u2013 PG282"
+        },
+        {
+          "slug": "comic/chap-8-pg283",
+          "label": "August 7, 2019 - Chap 8 \u2013 PG283"
+        },
+        {
+          "slug": "comic/chap-8-pg284",
+          "label": "August 11, 2019 - Chap 8 \u2013 PG284"
+        },
+        {
+          "slug": "comic/chap-8-pg285",
+          "label": "August 14, 2019 - Chap 8 \u2013 PG285"
+        },
+        {
+          "slug": "comic/chap-8-pg286",
+          "label": "August 18, 2019 - Chap 8 \u2013 PG286"
+        },
+        {
+          "slug": "comic/chap-8-pg287",
+          "label": "August 21, 2019 - Chap 8 \u2013 PG287"
+        },
+        {
+          "slug": "comic/chap-8-pg288",
+          "label": "August 25, 2019 - Chap 8 \u2013 PG288"
+        },
+        {
+          "slug": "comic/chap-8-pg289",
+          "label": "August 28, 2019 - Chap 8 \u2013 PG289"
+        },
+        {
+          "slug": "comic/chap-8-pg290",
+          "label": "September 1, 2019 - Chap 8 \u2013 PG290"
+        },
+        {
+          "slug": "comic/chap-8-pg291",
+          "label": "September 4, 2019 - Chap 8 \u2013 PG291"
+        },
+        {
+          "slug": "comic/chap-8-pg292",
+          "label": "September 8, 2019 - Chap 8 \u2013 PG292"
+        },
+        {
+          "slug": "comic/chap-8-pg293",
+          "label": "September 11, 2019 - Chap 8 \u2013 PG293"
+        },
+        {
+          "slug": "comic/chap-8-pg294",
+          "label": "September 15, 2019 - Chap 8 \u2013 PG294"
+        },
+        {
+          "slug": "comic/chap-8-pg295",
+          "label": "September 18, 2019 - Chap 8 \u2013 PG295"
+        },
+        {
+          "slug": "comic/chap-8-pg296",
+          "label": "September 22, 2019 - Chap 8 \u2013 PG296"
+        },
+        {
+          "slug": "comic/chap-8-pg297",
+          "label": "September 25, 2019 - Chap 8 \u2013 PG297"
+        },
+        {
+          "slug": "comic/chap-8-pg298",
+          "label": "September 29, 2019 - Chap 8 \u2013 PG298"
+        },
+        {
+          "slug": "comic/chap-8-pg299",
+          "label": "October 2, 2019 - Chap 8 \u2013 PG299"
+        },
+        {
+          "slug": "comic/chap-8-pg300",
+          "label": "October 6, 2019 - Chap 8 \u2013 PG300"
+        },
+        {
+          "slug": "comic/chap-8-pg301",
+          "label": "October 9, 2019 - Chap 8 \u2013 PG301"
+        },
+        {
+          "slug": "comic/chap-8-pg302",
+          "label": "October 13, 2019 - Chap 8 \u2013 PG302"
+        },
+        {
+          "slug": "comic/chap-8-pg303",
+          "label": "October 16, 2019 - Chap 8 \u2013 PG303"
+        },
+        {
+          "slug": "comic/chap-8-pg304",
+          "label": "October 20, 2019 - Chap 8 \u2013 PG304"
+        },
+        {
+          "slug": "comic/chap-8-pg305",
+          "label": "October 23, 2019 - Chap 8 \u2013 PG305"
+        },
+        {
+          "slug": "comic/chap-8-pg306",
+          "label": "October 27, 2019 - Chap 8 \u2013 PG306"
+        },
+        {
+          "slug": "comic/chap-8-pg307",
+          "label": "October 31, 2019 - Chap 8 \u2013 PG307"
+        },
+        {
+          "slug": "comic/chap-8-pg308",
+          "label": "November 4, 2019 - Chap 8 \u2013 PG308"
+        },
+        {
+          "slug": "comic/chap-8-pg309",
+          "label": "November 7, 2019 - Chap 8 \u2013 PG309"
+        },
+        {
+          "slug": "comic/chap-8-pg310",
+          "label": "November 11, 2019 - Chap 8 \u2013 PG310"
+        },
+        {
+          "slug": "comic/chap-8-pg311",
+          "label": "November 14, 2019 - Chap 8 \u2013 PG311"
+        },
+        {
+          "slug": "comic/chap-8-pg312",
+          "label": "November 18, 2019 - Chap 8 \u2013 PG312"
+        },
+        {
+          "slug": "comic/chap-8-pg313",
+          "label": "November 21, 2019 - Chap 8 \u2013 PG313"
+        },
+        {
+          "slug": "comic/chap-8-extras-1",
+          "label": "November 25, 2019 - Chap 8 Extras 1"
+        },
+        {
+          "slug": "comic/chap-8-extras-2",
+          "label": "November 28, 2019 - Chap 8 Extras 2"
+        },
+        {
+          "slug": "comic/chap-1-4-extras-1",
+          "label": "December 2, 2019 - Chap 1-4 Extras 1"
+        },
+        {
+          "slug": "comic/chap-1-4-extras-2",
+          "label": "December 5, 2019 - Chap 1-4 Extras 2"
+        },
+        {
+          "slug": "comic/chap-1-4-extras-3",
+          "label": "December 5, 2019 - Chap 1-4 Extras 3"
+        },
+        {
+          "slug": "comic/novae-illustration-2019-remake",
+          "label": "December 9, 2019 - Novae Illustration 2019 Remake"
+        },
+        {
+          "slug": "comic/patreon-extras",
+          "label": "December 12, 2019 - Patreon Extras~"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Locking Orbits",
+      "pages": [
+        {
+          "slug": "comic/chap-9-locking-orbits",
+          "label": "December 16, 2019 - Chap 9 \u2013 Locking Orbits"
+        },
+        {
+          "slug": "comic/chap-9-health-break-notice",
+          "label": "January 2, 2020 - Chap 9 \u2013 Health Break Notice"
+        },
+        {
+          "slug": "comic/chap-9-pg314",
+          "label": "February 6, 2020 - Chap 9 \u2013 PG314"
+        },
+        {
+          "slug": "comic/chap-9-pg315",
+          "label": "February 10, 2020 - Chap 9 \u2013 PG315"
+        },
+        {
+          "slug": "comic/chap-9-pg316",
+          "label": "February 12, 2020 - Chap 9 \u2013 PG316"
+        },
+        {
+          "slug": "comic/chap-9-pg317",
+          "label": "February 16, 2020 - Chap 9 \u2013 PG317"
+        },
+        {
+          "slug": "comic/chap-9-pg318",
+          "label": "February 20, 2020 - Chap 9 \u2013 PG318"
+        },
+        {
+          "slug": "comic/chap-9-pg319",
+          "label": "February 24, 2020 - Chap 9 \u2013 PG319"
+        },
+        {
+          "slug": "comic/chap-9-pg320",
+          "label": "February 27, 2020 - Chap 9 \u2013 PG320"
+        },
+        {
+          "slug": "comic/chap-9-pg321",
+          "label": "March 1, 2020 - Chap 9 \u2013 PG321"
+        },
+        {
+          "slug": "comic/chap-9-pg322",
+          "label": "March 5, 2020 - Chap 9 \u2013 PG322"
+        },
+        {
+          "slug": "comic/chap-9-pg323",
+          "label": "March 9, 2020 - Chap 9 \u2013 PG323"
+        },
+        {
+          "slug": "comic/chap-9-pg324",
+          "label": "March 12, 2020 - Chap 9 \u2013 PG324"
+        },
+        {
+          "slug": "comic/chap-9-pg325",
+          "label": "March 16, 2020 - Chap 9 \u2013 PG325"
+        },
+        {
+          "slug": "comic/chap-9-pg326",
+          "label": "March 19, 2020 - Chap 9 \u2013 PG326"
+        },
+        {
+          "slug": "comic/chap-9-pg327",
+          "label": "March 23, 2020 - Chap 9 \u2013 PG327"
+        },
+        {
+          "slug": "comic/chap-9-pg328",
+          "label": "March 26, 2020 - Chap 9 \u2013 PG328"
+        },
+        {
+          "slug": "comic/chap-9-pg329",
+          "label": "March 30, 2020 - Chap 9 \u2013 PG329"
+        },
+        {
+          "slug": "comic/chap-9-pg330",
+          "label": "April 2, 2020 - Chap 9 \u2013 PG330"
+        },
+        {
+          "slug": "comic/chap-9-pg331",
+          "label": "April 6, 2020 - Chap 9 \u2013 PG331"
+        },
+        {
+          "slug": "comic/chap-9-pg332",
+          "label": "April 9, 2020 - Chap 9 \u2013 PG332"
+        },
+        {
+          "slug": "comic/chap-9-pg333",
+          "label": "April 13, 2020 - Chap 9 \u2013 PG333"
+        },
+        {
+          "slug": "comic/chap-9-pg334",
+          "label": "April 16, 2020 - Chap 9 \u2013 PG334"
+        },
+        {
+          "slug": "comic/chap-9-pg335",
+          "label": "May 13, 2020 - Chap 9 \u2013 PG335"
+        },
+        {
+          "slug": "comic/chap-9-pg336",
+          "label": "May 13, 2020 - Chap 9 \u2013 PG336"
+        },
+        {
+          "slug": "comic/chap-9-pg337",
+          "label": "May 13, 2020 - Chap 9 \u2013 PG337"
+        },
+        {
+          "slug": "comic/chap-9-pg338",
+          "label": "May 13, 2020 - Chap 9 \u2013 PG338"
+        },
+        {
+          "slug": "comic/chap-9-pg339",
+          "label": "May 13, 2020 - Chap 9 \u2013 PG339"
+        },
+        {
+          "slug": "comic/chap-9-pg340",
+          "label": "May 13, 2020 - Chap 9 \u2013 PG340"
+        },
+        {
+          "slug": "comic/chap-9-pg341",
+          "label": "May 13, 2020 - Chap 9 \u2013 PG341"
+        },
+        {
+          "slug": "comic/chap-9-pg342",
+          "label": "May 14, 2020 - Chap 9 - PG342"
+        },
+        {
+          "slug": "comic/chap-9-pg343",
+          "label": "May 18, 2020 - Chap 9 - PG343"
+        },
+        {
+          "slug": "comic/chap-9-pg344",
+          "label": "May 21, 2020 - Chap 9 - PG344"
+        },
+        {
+          "slug": "comic/chap-9-pg345",
+          "label": "May 25, 2020 - Chap 9 - PG345"
+        },
+        {
+          "slug": "comic/chap-9-pg346",
+          "label": "May 28, 2020 - Chap 9 - PG346"
+        },
+        {
+          "slug": "comic/chap-9-pg347",
+          "label": "June 1, 2020 - Chap 9 - PG347"
+        },
+        {
+          "slug": "comic/chap-9-pg348",
+          "label": "June 4, 2020 - Chap 9 - PG348"
+        },
+        {
+          "slug": "comic/chap-9-pg349",
+          "label": "June 8, 2020 - Chap 9 - PG349"
+        },
+        {
+          "slug": "comic/chap-9-pg350",
+          "label": "June 11, 2020 - Chap 9 - PG350"
+        },
+        {
+          "slug": "comic/chap-9-pg351",
+          "label": "June 15, 2020 - Chap 9 - PG351"
+        },
+        {
+          "slug": "comic/gag-comic-raziols-mittens",
+          "label": "June 18, 2020 - Gag comic~ Raziol's Mittens!"
+        },
+        {
+          "slug": "comic/mini-comic-a-gift-for-vivi",
+          "label": "June 22, 2020 - Mini Comic~ A Gift for Vivi"
+        },
+        {
+          "slug": "comic/happy-pride-2020",
+          "label": "June 25, 2020 - Happy Pride 2020!"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Effloresce",
+      "pages": [
+        {
+          "slug": "comic/chap-10-effloresce",
+          "label": "June 29, 2020 - Chap 10~ Effloresce"
+        },
+        {
+          "slug": "comic/chap-10-pg352",
+          "label": "July 2, 2020 - Chap 10 - PG352"
+        },
+        {
+          "slug": "comic/chap-10-pg353",
+          "label": "July 6, 2020 - Chap 10 - PG353"
+        },
+        {
+          "slug": "comic/chap-10-pg354",
+          "label": "July 9, 2020 - Chap 10 - PG354"
+        },
+        {
+          "slug": "comic/chap-10-pg355",
+          "label": "July 13, 2020 - Chap 10 - PG355"
+        },
+        {
+          "slug": "comic/chap-10-pg356",
+          "label": "July 16, 2020 - Chap 10 - PG356"
+        },
+        {
+          "slug": "comic/chap-10-pg357",
+          "label": "July 20, 2020 - Chap 10 - PG357"
+        },
+        {
+          "slug": "comic/chap-10-pg358",
+          "label": "July 23, 2020 - Chap 10 - PG358"
+        },
+        {
+          "slug": "comic/chap-10-pg359",
+          "label": "July 27, 2020 - Chap 10 - PG359 "
+        },
+        {
+          "slug": "comic/chap-10-pg360",
+          "label": "July 30, 2020 - Chap 10 - PG360"
+        },
+        {
+          "slug": "comic/chap-10-pg361",
+          "label": "August 3, 2020 - Chap 10 - PG361"
+        },
+        {
+          "slug": "comic/chap-10-pg362",
+          "label": "August 6, 2020 - Chap 10 - PG362"
+        },
+        {
+          "slug": "comic/chap-10-pg363",
+          "label": "August 10, 2020 - Chap 10 - PG363"
+        },
+        {
+          "slug": "comic/chap-10-pg364",
+          "label": "August 13, 2020 - Chap 10 - PG364"
+        },
+        {
+          "slug": "comic/chap-10-pg365",
+          "label": "August 17, 2020 - Chap 10 - PG365"
+        },
+        {
+          "slug": "comic/chap-10-pg366",
+          "label": "August 20, 2020 - Chap 10 - PG366"
+        },
+        {
+          "slug": "comic/chap-10-pg367",
+          "label": "August 24, 2020 - Chap 10 - PG367"
+        },
+        {
+          "slug": "comic/chap-10-pg368",
+          "label": "August 27, 2020 - Chap 10 - PG368"
+        },
+        {
+          "slug": "comic/chap-10-pg369",
+          "label": "August 31, 2020 - Chap 10 - PG369"
+        },
+        {
+          "slug": "comic/chap-10-pg370",
+          "label": "September 3, 2020 - Chap 10 - PG370"
+        },
+        {
+          "slug": "comic/chap-10-pg371",
+          "label": "September 7, 2020 - Chap 10 - PG371"
+        },
+        {
+          "slug": "comic/chap-10-pg372",
+          "label": "September 10, 2020 - Chap 10 - PG372"
+        },
+        {
+          "slug": "comic/chap-10-pg373",
+          "label": "September 14, 2020 - Chap 10 - PG373"
+        },
+        {
+          "slug": "comic/chap-10-pg374",
+          "label": "September 17, 2020 - Chap 10 - PG374"
+        },
+        {
+          "slug": "comic/chap-10-pg375",
+          "label": "September 21, 2020 - Chap 10 - PG375"
+        },
+        {
+          "slug": "comic/chap-10-pg376",
+          "label": "September 24, 2020 - Chap 10 - PG376"
+        },
+        {
+          "slug": "comic/chap-10-pg377",
+          "label": "September 28, 2020 - Chap 10 - PG377"
+        },
+        {
+          "slug": "comic/chap-10-pg378",
+          "label": "October 1, 2020 - Chap 10 - PG378"
+        },
+        {
+          "slug": "comic/chap-10-pg379",
+          "label": "October 5, 2020 - Chap 10 - PG379"
+        },
+        {
+          "slug": "comic/chap-10-pg380",
+          "label": "October 8, 2020 - Chap 10 - PG380"
+        },
+        {
+          "slug": "comic/chap-10-pg381",
+          "label": "October 12, 2020 - Chap 10 - PG381"
+        },
+        {
+          "slug": "comic/chap-10-pg382",
+          "label": "October 15, 2020 - Chap 10 - PG382"
+        },
+        {
+          "slug": "comic/chap-10-pg383",
+          "label": "October 19, 2020 - Chap 10 - PG383"
+        },
+        {
+          "slug": "comic/chap-10-pg384",
+          "label": "October 22, 2020 - Chap 10 - PG384"
+        },
+        {
+          "slug": "comic/chap-10-pg385",
+          "label": "October 26, 2020 - Chap 10 - PG385"
+        },
+        {
+          "slug": "comic/chap-10-pg386",
+          "label": "October 29, 2020 - Chap 10 - PG386"
+        },
+        {
+          "slug": "comic/chap-10-pg387",
+          "label": "November 2, 2020 - Chap 10 - PG387"
+        },
+        {
+          "slug": "comic/chap-10-pg388",
+          "label": "November 5, 2020 - Chap 10 - PG388"
+        },
+        {
+          "slug": "comic/chap-10-pg389",
+          "label": "November 9, 2020 - Chap 10 - PG389"
+        },
+        {
+          "slug": "comic/chap-10-pg390",
+          "label": "November 12, 2020 - Chap 10 - PG390"
+        },
+        {
+          "slug": "comic/chap-10-pg391",
+          "label": "November 16, 2020 - Chap 10 - PG391"
+        },
+        {
+          "slug": "comic/chap-10-pg392",
+          "label": "November 19, 2020 - Chap 10 - PG392"
+        },
+        {
+          "slug": "comic/chap-10-pg393",
+          "label": "November 23, 2020 - Chap 10 - PG393"
+        },
+        {
+          "slug": "comic/chap-10-pg394",
+          "label": "November 26, 2020 - Chap 10 - PG394"
+        },
+        {
+          "slug": "comic/chap-10-pg395",
+          "label": "November 30, 2020 - Chap 10 - PG395"
+        },
+        {
+          "slug": "comic/chap-10-pg396",
+          "label": "December 3, 2020 - Chap 10 - PG396"
+        },
+        {
+          "slug": "comic/chap-10-pg397",
+          "label": "December 7, 2020 - Chap 10 - PG397"
+        },
+        {
+          "slug": "comic/chap-10-pg398",
+          "label": "December 10, 2020 - Chap 10 - PG398"
+        },
+        {
+          "slug": "comic/chap-10-pg399",
+          "label": "December 14, 2020 - Chap 10 - PG399"
+        },
+        {
+          "slug": "comic/chap-10-pg400",
+          "label": "December 17, 2020 - Chap 10 - PG400"
+        },
+        {
+          "slug": "comic/chap-10-pg401",
+          "label": "December 21, 2020 - Chap 10 - PG401"
+        },
+        {
+          "slug": "comic/chap-10-pg402",
+          "label": "December 24, 2020 - Chap 10 - PG402"
+        },
+        {
+          "slug": "comic/chap-10-pg403",
+          "label": "December 28, 2020 - Chap 10 - PG403"
+        },
+        {
+          "slug": "comic/chap-10-pg404",
+          "label": "December 31, 2020 - Chap 10 - PG404"
+        },
+        {
+          "slug": "comic/chap-10-pg405",
+          "label": "January 4, 2021 - Chap 10 - PG405"
+        },
+        {
+          "slug": "comic/chap-10-pg406",
+          "label": "January 7, 2021 - Chap 10 - PG406"
+        },
+        {
+          "slug": "comic/chap-10-pg407",
+          "label": "January 11, 2021 - Chap 10 - PG407"
+        },
+        {
+          "slug": "comic/chap-10-pg408",
+          "label": "January 14, 2021 - Chap 10 - PG408"
+        },
+        {
+          "slug": "comic/chap-10-pg409",
+          "label": "January 18, 2021 - Chap 10 - PG409"
+        },
+        {
+          "slug": "comic/chap-10-pg410",
+          "label": "January 21, 2021 - Chap 10 - PG410"
+        },
+        {
+          "slug": "comic/chap-10-pg411",
+          "label": "January 25, 2021 - Chap 10 - PG411"
+        },
+        {
+          "slug": "comic/chap-10-pg412",
+          "label": "January 28, 2021 - Chap 10 - PG412"
+        },
+        {
+          "slug": "comic/chap-10-pg413",
+          "label": "February 1, 2021 - Chap 10 - PG413"
+        },
+        {
+          "slug": "comic/chap-10-pg414",
+          "label": "February 4, 2021 - Chap 10 - PG414"
+        },
+        {
+          "slug": "comic/chap-10-pg415",
+          "label": "February 8, 2021 - Chap 10 - PG415"
+        },
+        {
+          "slug": "comic/chap-10-pg416",
+          "label": "February 11, 2021 - Chap 10 - PG416"
+        },
+        {
+          "slug": "comic/factoid-a-necromancers-pin",
+          "label": "February 15, 2021 - Factoid- A Necromancer's Pin"
+        },
+        {
+          "slug": "comic/mini-comic-sulvains-pin",
+          "label": "February 18, 2021 - Mini comic - Sulvain's Pin~"
+        },
+        {
+          "slug": "comic/illustration-the-demon-and-the-moon-fairy",
+          "label": "February 22, 2021 - Illustration~ The Demon and the Moon Fairy"
+        },
+        {
+          "slug": "comic/illustration-the-prince-and-the-merman",
+          "label": "February 25, 2021 - Illustration~ The Prince and the Merman"
+        },
+        {
+          "slug": "comic/character-recap-map",
+          "label": "March 1, 2021 - Character Recap + Map"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Eclipse",
+      "pages": [
+        {
+          "slug": "comic/chap-11-eclipse",
+          "label": "March 4, 2021 - Chap 11 - Eclipse"
+        },
+        {
+          "slug": "comic/chap-11-pg417",
+          "label": "March 8, 2021 - Chap 11 - PG417"
+        },
+        {
+          "slug": "comic/chap-11-pg418",
+          "label": "March 11, 2021 - Chap 11 - PG418"
+        },
+        {
+          "slug": "comic/chap-11-pg419",
+          "label": "March 15, 2021 - Chap 11 - PG419"
+        },
+        {
+          "slug": "comic/chap-11-pg420",
+          "label": "March 18, 2021 - Chap 11 - PG420"
+        },
+        {
+          "slug": "comic/chap-11-pg421",
+          "label": "March 22, 2021 - Chap 11 - PG421"
+        },
+        {
+          "slug": "comic/chap-11-pg422",
+          "label": "March 25, 2021 - Chap 11 - PG422"
+        },
+        {
+          "slug": "comic/chap-11-pg423",
+          "label": "March 29, 2021 - Chap 11 - PG423"
+        },
+        {
+          "slug": "comic/chap-11-pg424",
+          "label": "April 1, 2021 - Chap 11 - PG424"
+        },
+        {
+          "slug": "comic/chap-11-pg425",
+          "label": "April 5, 2021 - Chap 11 - PG425"
+        },
+        {
+          "slug": "comic/chap-11-pg426",
+          "label": "April 8, 2021 - Chap 11 - PG426"
+        },
+        {
+          "slug": "comic/chap-11-pg427",
+          "label": "April 12, 2021 - Chap 11 - PG427"
+        },
+        {
+          "slug": "comic/chap-11-pg428",
+          "label": "April 15, 2021 - Chap 11 - PG428"
+        },
+        {
+          "slug": "comic/chap-11-pg429",
+          "label": "April 19, 2021 - Chap 11 - PG429"
+        },
+        {
+          "slug": "comic/chap-11-pg430",
+          "label": "April 22, 2021 - Chap 11 - PG430"
+        },
+        {
+          "slug": "comic/chap-11-pg431",
+          "label": "April 26, 2021 - Chap 11 - PG431"
+        },
+        {
+          "slug": "comic/chap-11-pg432",
+          "label": "April 29, 2021 - Chap 11 - PG432"
+        },
+        {
+          "slug": "comic/chap-11-pg433",
+          "label": "May 3, 2021 - Chap 11 - PG433"
+        },
+        {
+          "slug": "comic/chap-11-pg434",
+          "label": "May 6, 2021 - Chap 11 - PG434"
+        },
+        {
+          "slug": "comic/chap-11-pg435",
+          "label": "May 10, 2021 - Chap 11 - PG435"
+        },
+        {
+          "slug": "comic/chap-11-pg436",
+          "label": "May 13, 2021 - Chap 11 - PG436"
+        },
+        {
+          "slug": "comic/chap-11-pg437",
+          "label": "May 17, 2021 - Chap 11 - PG437"
+        },
+        {
+          "slug": "comic/chap-11-pg438",
+          "label": "May 20, 2021 - Chap 11 - PG438"
+        },
+        {
+          "slug": "comic/chap-11-pg439",
+          "label": "May 24, 2021 - Chap 11 - PG439"
+        },
+        {
+          "slug": "comic/chap-11-pg440",
+          "label": "May 27, 2021 - Chap 11 - PG440"
+        },
+        {
+          "slug": "comic/chap-11-pg441",
+          "label": "May 31, 2021 - Chap 11 - PG441"
+        },
+        {
+          "slug": "comic/chap-11-pg442",
+          "label": "June 3, 2021 - Chap 11 - PG442"
+        },
+        {
+          "slug": "comic/chap-11-pg443",
+          "label": "June 7, 2021 - Chap 11 - PG443"
+        },
+        {
+          "slug": "comic/chap-11-pg444",
+          "label": "June 10, 2021 - Chap 11 - PG444"
+        },
+        {
+          "slug": "comic/chap-11-pg445",
+          "label": "June 14, 2021 - Chap 11 - PG445"
+        },
+        {
+          "slug": "comic/chap-11-pg446",
+          "label": "June 17, 2021 - Chap 11 - PG446"
+        },
+        {
+          "slug": "comic/chap-11-pg447",
+          "label": "June 21, 2021 - Chap 11 - PG447"
+        },
+        {
+          "slug": "comic/chap-11-pg448",
+          "label": "June 24, 2021 - Chap 11 - PG448"
+        },
+        {
+          "slug": "comic/chap-11-pg449",
+          "label": "June 28, 2021 - Chap 11 - PG449"
+        },
+        {
+          "slug": "comic/chap-11-pg450",
+          "label": "July 1, 2021 - Chap 11 - PG450"
+        },
+        {
+          "slug": "comic/chap-11-pg451",
+          "label": "July 5, 2021 - Chap 11 - PG451"
+        },
+        {
+          "slug": "comic/chap-11-pg452",
+          "label": "July 8, 2021 - Chap 11 - PG452"
+        },
+        {
+          "slug": "comic/chap-11-pg453",
+          "label": "July 12, 2021 - Chap 11 - PG453"
+        },
+        {
+          "slug": "comic/chap-11-pg454",
+          "label": "July 15, 2021 - Chap 11 - PG454"
+        },
+        {
+          "slug": "comic/chap-11-pg455",
+          "label": "July 19, 2021 - Chap 11 - PG455"
+        },
+        {
+          "slug": "comic/chap-11-pg456",
+          "label": "July 22, 2021 - Chap 11 - PG456"
+        },
+        {
+          "slug": "comic/chap-11-pg457",
+          "label": "July 26, 2021 - Chap 11 - PG457"
+        },
+        {
+          "slug": "comic/chap-11-pg458",
+          "label": "July 29, 2021 - Chap 11 - PG458"
+        },
+        {
+          "slug": "comic/chap-11-pg459",
+          "label": "August 2, 2021 - Chap 11 - PG459"
+        },
+        {
+          "slug": "comic/chap-11-pg460",
+          "label": "August 5, 2021 - Chap 11 - PG460"
+        },
+        {
+          "slug": "comic/chap-11-pg461",
+          "label": "August 9, 2021 - Chap 11 - PG461"
+        },
+        {
+          "slug": "comic/chap-11-pg462",
+          "label": "August 12, 2021 - Chap 11 - PG462"
+        },
+        {
+          "slug": "comic/chap-11-pg463",
+          "label": "August 16, 2021 - Chap 11 - PG463"
+        },
+        {
+          "slug": "comic/chap-11-pg464",
+          "label": "August 19, 2021 - Chap 11 - PG464"
+        },
+        {
+          "slug": "comic/chap-11-pg465",
+          "label": "August 23, 2021 - Chap 11 - PG465"
+        },
+        {
+          "slug": "comic/chap-11-pg466",
+          "label": "August 26, 2021 - Chap 11 - PG466"
+        },
+        {
+          "slug": "comic/chap-11-pg467",
+          "label": "August 30, 2021 - Chap 11 - PG467"
+        },
+        {
+          "slug": "comic/chap-11-pg468",
+          "label": "September 2, 2021 - Chap 11 - PG468"
+        },
+        {
+          "slug": "comic/chap-11-pg469",
+          "label": "September 6, 2021 - Chap 11 - PG469"
+        },
+        {
+          "slug": "comic/chap-11-pg470",
+          "label": "September 9, 2021 - Chap 11 - PG470"
+        },
+        {
+          "slug": "comic/chap-11-pg471",
+          "label": "September 13, 2021 - Chap 11 - PG471"
+        },
+        {
+          "slug": "comic/chap-11-pg472",
+          "label": "September 16, 2021 - Chap 11 - PG472"
+        },
+        {
+          "slug": "comic/chap-11-pg473",
+          "label": "September 19, 2021 - Chap 11 - PG473"
+        },
+        {
+          "slug": "comic/chap-11-pg474",
+          "label": "September 23, 2021 - Chap 11 - PG474"
+        },
+        {
+          "slug": "comic/chap-11-pg475",
+          "label": "September 27, 2021 - Chap 11 - PG475"
+        },
+        {
+          "slug": "comic/chap-11-pg476",
+          "label": "September 30, 2021 - Chap 11 - PG476"
+        },
+        {
+          "slug": "comic/chap-11-pg477",
+          "label": "October 4, 2021 - Chap 11 - PG477"
+        },
+        {
+          "slug": "comic/chap-11-pg478",
+          "label": "October 7, 2021 - Chap 11 - PG478"
+        },
+        {
+          "slug": "comic/chap-11-pg479",
+          "label": "October 11, 2021 - Chap 11 - PG479"
+        },
+        {
+          "slug": "comic/chap-11-pg480",
+          "label": "October 14, 2021 - Chap 11 - PG480"
+        },
+        {
+          "slug": "comic/chap-11-pg481",
+          "label": "October 18, 2021 - Chap 11 - PG481"
+        },
+        {
+          "slug": "comic/chap-11-pg482",
+          "label": "October 20, 2021 - Chap 11 - PG482"
+        },
+        {
+          "slug": "comic/chap-11-pg483",
+          "label": "October 25, 2021 - Chap 11 - PG483"
+        },
+        {
+          "slug": "comic/chap-11-pg484",
+          "label": "November 1, 2021 - Chap 11 - PG484"
+        },
+        {
+          "slug": "comic/chap-11-pg485",
+          "label": "November 8, 2021 - Chap 11 - PG485"
+        },
+        {
+          "slug": "comic/chap-11-pg486",
+          "label": "November 11, 2021 - Chap 11 - PG486"
+        },
+        {
+          "slug": "comic/chap-11-pg487",
+          "label": "November 15, 2021 - Chap 11 - PG487"
+        },
+        {
+          "slug": "comic/chap-11-pg488",
+          "label": "November 18, 2021 - Chap 11 - PG488"
+        },
+        {
+          "slug": "comic/chap-11-pg489",
+          "label": "November 22, 2021 - Chap 11 - PG489"
+        },
+        {
+          "slug": "comic/chap-11-pg490",
+          "label": "November 25, 2021 - Chap 11 - PG490"
+        },
+        {
+          "slug": "comic/chap-11-pg491",
+          "label": "November 29, 2021 - Chap 11 - PG491"
+        },
+        {
+          "slug": "comic/chap-11-pg492",
+          "label": "December 2, 2021 - Chap 11 - PG492"
+        },
+        {
+          "slug": "comic/chap-11-pg493",
+          "label": "December 6, 2021 - Chap 11 - PG493"
+        },
+        {
+          "slug": "comic/chap-11-pg494",
+          "label": "December 9, 2021 - Chap 11 - PG494"
+        },
+        {
+          "slug": "comic/chap-11-pg495",
+          "label": "December 13, 2021 - Chap 11 - PG495"
+        },
+        {
+          "slug": "comic/chap-11-pg496",
+          "label": "December 16, 2021 - Chap 11 - PG496"
+        },
+        {
+          "slug": "comic/chap-11-pg497",
+          "label": "December 20, 2021 - Chap 11 - PG497"
+        },
+        {
+          "slug": "comic/chap-11-pg498",
+          "label": "December 23, 2021 - Chap 11 - PG498"
+        },
+        {
+          "slug": "comic/chap-11-pg499",
+          "label": "January 3, 2022 - Chap 11 - PG499"
+        },
+        {
+          "slug": "comic/chap-11-pg500",
+          "label": "January 6, 2022 - Chap 11 - PG500"
+        },
+        {
+          "slug": "comic/chap-11-pg501",
+          "label": "January 10, 2022 - Chap 11 - PG501"
+        },
+        {
+          "slug": "comic/chap-11-pg502",
+          "label": "January 13, 2022 - Chap 11 - PG502"
+        },
+        {
+          "slug": "comic/chap-11-pg503",
+          "label": "January 17, 2022 - Chap 11 - PG503"
+        },
+        {
+          "slug": "comic/chap-11-pg504",
+          "label": "January 20, 2022 - Chap 11 - PG504"
+        },
+        {
+          "slug": "comic/chap-11-pg505",
+          "label": "January 24, 2022 - Chap 11 - PG505"
+        },
+        {
+          "slug": "comic/chap-11-pg506",
+          "label": "January 27, 2022 - Chap 11 - PG506"
+        },
+        {
+          "slug": "comic/chap-11-pg507",
+          "label": "January 31, 2022 - Chap 11 - PG507"
+        },
+        {
+          "slug": "comic/chap-11-pg508",
+          "label": "February 3, 2022 - Chap 11 - PG508"
+        },
+        {
+          "slug": "comic/chap-11-pg509",
+          "label": "February 7, 2022 - Chap 11 - PG509"
+        },
+        {
+          "slug": "comic/chap-11-pg510",
+          "label": "February 10, 2022 - Chap 11 - PG510"
+        },
+        {
+          "slug": "comic/chap-11-pg511",
+          "label": "February 13, 2022 - Chap 11 - PG511"
+        },
+        {
+          "slug": "comic/chap-11-pg512",
+          "label": "February 17, 2022 - Chap 11 - PG512"
+        },
+        {
+          "slug": "comic/chap-11-pg513",
+          "label": "February 21, 2022 -  Chap 11 - PG513"
+        },
+        {
+          "slug": "comic/chap-11-pg514",
+          "label": "February 24, 2022 - Chap 11 - PG514"
+        },
+        {
+          "slug": "comic/chap-11-pg515",
+          "label": "February 28, 2022 - Chap 11 - PG515"
+        },
+        {
+          "slug": "comic/chap-11-pg516",
+          "label": "March 3, 2022 - Chap 11 - PG516"
+        },
+        {
+          "slug": "comic/chap-11-pg517",
+          "label": "March 7, 2022 - Chap 11 - PG517"
+        },
+        {
+          "slug": "comic/chap-11-pg518",
+          "label": "March 10, 2022 - Chap 11 - PG518"
+        },
+        {
+          "slug": "comic/chap-11-pg519",
+          "label": "March 14, 2022 - Chap 11 - PG519"
+        },
+        {
+          "slug": "comic/chap-11-pg520",
+          "label": "March 17, 2022 - Chap 11 - PG520"
+        },
+        {
+          "slug": "comic/chap-11-pg521",
+          "label": "March 21, 2022 - Chap 11 - PG521"
+        },
+        {
+          "slug": "comic/chap-11-pg522",
+          "label": "March 24, 2022 - Chap 11 - PG522"
+        },
+        {
+          "slug": "comic/chap-11-pg523",
+          "label": "March 28, 2022 - Chap 11 - PG523"
+        },
+        {
+          "slug": "comic/chap-11-pg524",
+          "label": "March 31, 2022 - Chap 11 - PG524"
+        },
+        {
+          "slug": "comic/chap-11-pg525",
+          "label": "April 4, 2022 - Chap 11 - PG525"
+        },
+        {
+          "slug": "comic/chap-11-pg526",
+          "label": "April 7, 2022 - Chap 11 - PG526"
+        },
+        {
+          "slug": "comic/chap-11-pg527",
+          "label": "April 11, 2022 - Chap 11 - PG527"
+        },
+        {
+          "slug": "comic/chap-11-pg528",
+          "label": "April 14, 2022 - Chap 11 - PG528"
+        },
+        {
+          "slug": "comic/chap-11-pg529",
+          "label": "April 18, 2022 - Chap 11 - PG529"
+        },
+        {
+          "slug": "comic/chap-11-pg530",
+          "label": "April 21, 2022 - Chap 11 - PG530"
+        },
+        {
+          "slug": "comic/chap-11-pg531",
+          "label": "April 25, 2022 - Chap 11 - PG531"
+        },
+        {
+          "slug": "comic/chap-11-pg532",
+          "label": "April 28, 2022 - Chap 11 - PG532"
+        },
+        {
+          "slug": "comic/faction-factoid",
+          "label": "May 2, 2022 - Faction Factoid~"
+        },
+        {
+          "slug": "comic/chap-11-pg533",
+          "label": "May 12, 2022 - Chap 11 - PG533"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Somnium",
+      "pages": [
+        {
+          "slug": "comic/chap-12-pg534",
+          "label": "May 16, 2022 - Chap 12 - PG534"
+        },
+        {
+          "slug": "comic/chap-12-pg535",
+          "label": "May 19, 2022 - Chap 12 - PG535"
+        },
+        {
+          "slug": "comic/chap-12-pg536",
+          "label": "May 23, 2022 - Chap 12 - PG536"
+        },
+        {
+          "slug": "comic/chap-12-pg537",
+          "label": "May 26, 2022 - Chap 12 - PG537"
+        },
+        {
+          "slug": "comic/chap-12-pg538",
+          "label": "May 30, 2022 - Chap 12 - PG538"
+        },
+        {
+          "slug": "comic/chap-12-pg539",
+          "label": "June 2, 2022 - Chap 12 - PG539"
+        },
+        {
+          "slug": "comic/chap-12-pg540",
+          "label": "June 6, 2022 - Chap 12 - PG540"
+        },
+        {
+          "slug": "comic/chap-12-pg541",
+          "label": "June 9, 2022 - Chap 12 - PG541"
+        },
+        {
+          "slug": "comic/chap-12-pg542",
+          "label": "June 13, 2022 - Chap 12 - PG542"
+        },
+        {
+          "slug": "comic/chap-12-pg543",
+          "label": "June 16, 2022 - Chap 12 - PG543"
+        },
+        {
+          "slug": "comic/chap-12-pg544",
+          "label": "June 20, 2022 - Chap 12 - PG544"
+        },
+        {
+          "slug": "comic/chap-12-pg545",
+          "label": "June 23, 2022 - Chap 12 - PG545"
+        },
+        {
+          "slug": "comic/chap-12-pg546",
+          "label": "June 27, 2022 - Chap 12 - PG546"
+        },
+        {
+          "slug": "comic/chap-12-pg547",
+          "label": "June 30, 2022 - Chap 12 - PG547"
+        },
+        {
+          "slug": "comic/chap-12-pg548",
+          "label": "July 4, 2022 - Chap 12 - PG548"
+        },
+        {
+          "slug": "comic/chap-12-pg549",
+          "label": "July 7, 2022 - Chap 12 - PG549"
+        },
+        {
+          "slug": "comic/chap-12-pg550",
+          "label": "July 11, 2022 - Chap 12 - PG550"
+        },
+        {
+          "slug": "comic/chap-12-pg551",
+          "label": "July 14, 2022 - Chap 12 - PG551"
+        },
+        {
+          "slug": "comic/chap-12-pg552",
+          "label": "July 18, 2022 - Chap 12 - PG552"
+        },
+        {
+          "slug": "comic/chap-12-pg553",
+          "label": "July 21, 2022 - Chap 12 - PG553"
+        },
+        {
+          "slug": "comic/chap-12-pg554",
+          "label": "July 25, 2022 - Chap 12 - PG554"
+        },
+        {
+          "slug": "comic/chap-12-pg555",
+          "label": "July 28, 2022 - Chap 12 - PG555"
+        },
+        {
+          "slug": "comic/chap-12-pg556",
+          "label": "August 1, 2022 - Chap 12 - PG556"
+        },
+        {
+          "slug": "comic/chap-12-pg557",
+          "label": "August 4, 2022 - Chap 12 - PG557"
+        },
+        {
+          "slug": "comic/chap-12-pg558",
+          "label": "August 8, 2022 - Chap 12 - PG558"
+        },
+        {
+          "slug": "comic/chap-12-pg559",
+          "label": "August 11, 2022 - Chap 12 - PG559"
+        },
+        {
+          "slug": "comic/chap-12-pg560",
+          "label": "August 15, 2022 - Chap 12 - PG560"
+        },
+        {
+          "slug": "comic/chap-12-pg561",
+          "label": "August 18, 2022 - Chap 12 - PG561"
+        },
+        {
+          "slug": "comic/chap-12-pg562",
+          "label": "August 22, 2022 - Chap 12 - PG562"
+        },
+        {
+          "slug": "comic/chap-12-pg563",
+          "label": "August 25, 2022 - Chap 12 - PG563"
+        },
+        {
+          "slug": "comic/chap-12-pg564",
+          "label": "August 29, 2022 - Chap 12 - PG564"
+        },
+        {
+          "slug": "comic/chap-12-pg565",
+          "label": "September 1, 2022 - Chap 12 - PG565"
+        },
+        {
+          "slug": "comic/chap-12-pg566",
+          "label": "September 5, 2022 - Chap 12 - PG566"
+        },
+        {
+          "slug": "comic/chap-12-pg567",
+          "label": "September 8, 2022 - Chap 12 - PG567"
+        },
+        {
+          "slug": "comic/chap-12-pg568",
+          "label": "September 12, 2022 - Chap 12 - PG568"
+        },
+        {
+          "slug": "comic/chap-12-pg569",
+          "label": "September 15, 2022 - Chap 12 - PG569"
+        },
+        {
+          "slug": "comic/chap-12-pg570",
+          "label": "September 19, 2022 - Chap 12 - PG570"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Magia Essencia",
+      "pages": [
+        {
+          "slug": "comic/chap-13-magia-essencia",
+          "label": "October 3, 2022 - Chap 13 - Magia Essencia"
+        },
+        {
+          "slug": "comic/chap-13-pg571",
+          "label": "October 6, 2022 - Chap 13 - PG571"
+        },
+        {
+          "slug": "comic/chap-13-pg572",
+          "label": "October 10, 2022 - Chap 13 - PG572"
+        },
+        {
+          "slug": "comic/chap-13-pg573",
+          "label": "October 13, 2022 - Chap 13 - PG573"
+        },
+        {
+          "slug": "comic/chap-13-pg574",
+          "label": "October 17, 2022 - Chap 13 - PG574"
+        },
+        {
+          "slug": "comic/chap-13-pg575",
+          "label": "October 20, 2022 - Chap 13 - PG575"
+        },
+        {
+          "slug": "comic/chap-13-pg576",
+          "label": "October 24, 2022 - Chap 13 - PG576"
+        },
+        {
+          "slug": "comic/chap-13-pg577",
+          "label": "October 27, 2022 - Chap 13 - PG577"
+        },
+        {
+          "slug": "comic/chap-13-pg578",
+          "label": "October 31, 2022 - Chap 13 - PG578"
+        },
+        {
+          "slug": "comic/chap-13-pg579",
+          "label": "November 3, 2022 - Chap 13 - PG579"
+        },
+        {
+          "slug": "comic/chap-13-pg580",
+          "label": "November 7, 2022 - Chap 13 - PG580"
+        },
+        {
+          "slug": "comic/chap-13-pg581",
+          "label": "November 10, 2022 - Chap 13 - PG581"
+        },
+        {
+          "slug": "comic/chap-13-pg582",
+          "label": "November 14, 2022 - Chap 13 - PG582"
+        },
+        {
+          "slug": "comic/chap-13-pg583",
+          "label": "November 17, 2022 - Chap 13 - PG583"
+        },
+        {
+          "slug": "comic/chap-13-pg584",
+          "label": "November 21, 2022 - Chap 13 - PG584"
+        },
+        {
+          "slug": "comic/chap-13-pg585",
+          "label": "November 24, 2022 - Chap 13 - PG585"
+        },
+        {
+          "slug": "comic/chap-13-pg586",
+          "label": "November 28, 2022 - Chap 13 - PG586"
+        },
+        {
+          "slug": "comic/chap-13-pg587",
+          "label": "December 1, 2022 - Chap 13 - PG587"
+        },
+        {
+          "slug": "comic/chap-13-pg588",
+          "label": "December 5, 2022 - Chap 13 - PG588"
+        },
+        {
+          "slug": "comic/chap-13-pg589",
+          "label": "December 8, 2022 - Chap 13 - PG589"
+        },
+        {
+          "slug": "comic/chap-13-pg590",
+          "label": "December 12, 2022 - Chap 13 - PG590"
+        },
+        {
+          "slug": "comic/chap-13-pg591",
+          "label": "December 15, 2022 - Chap 13 - PG591"
+        },
+        {
+          "slug": "comic/chap-13-pg592",
+          "label": "December 19, 2022 - Chap 13 - PG592"
+        },
+        {
+          "slug": "comic/chap-13-pg593",
+          "label": "December 22, 2022 - Chap 13 - PG593"
+        },
+        {
+          "slug": "comic/chap-13-pg594",
+          "label": "January 2, 2023 - Chap 13 - PG594"
+        },
+        {
+          "slug": "comic/chap-13-pg595",
+          "label": "January 5, 2023 - Chap 13 - PG595"
+        },
+        {
+          "slug": "comic/chap-13-pg596",
+          "label": "January 9, 2023 - Chap 13 - PG596"
+        },
+        {
+          "slug": "comic/chap-13-pg597",
+          "label": "January 12, 2023 - Chap 13 - PG597"
+        },
+        {
+          "slug": "comic/chap-13-pg598",
+          "label": "January 16, 2023 - Chap 13 - PG598"
+        },
+        {
+          "slug": "comic/chap-13-pg599",
+          "label": "January 19, 2023 - Chap 13 - PG599"
+        },
+        {
+          "slug": "comic/chap-13-pg600",
+          "label": "January 23, 2023 - Chap 13 - PG600"
+        },
+        {
+          "slug": "comic/chap-13-pg601",
+          "label": "January 26, 2023 - Chap 13 - PG601"
+        },
+        {
+          "slug": "comic/chap-13-pg602",
+          "label": "January 30, 2023 - Chap 13 - PG602"
+        },
+        {
+          "slug": "comic/chap-13-pg603",
+          "label": "February 2, 2023 - Chap 13 - PG603"
+        },
+        {
+          "slug": "comic/chap-13-pg604",
+          "label": "February 6, 2023 - Chap 13 - PG604"
+        },
+        {
+          "slug": "comic/chap-13-pg605",
+          "label": "February 9, 2023 - Chap 13 - PG605 "
+        },
+        {
+          "slug": "comic/chap-13-pg606",
+          "label": "February 13, 2023 - Chap 13 - PG606"
+        },
+        {
+          "slug": "comic/chap-13-pg607",
+          "label": "February 16, 2023 - Chap 13 - PG607"
+        },
+        {
+          "slug": "comic/chap-13-pg608",
+          "label": "February 20, 2023 - Chap 13 - PG608"
+        },
+        {
+          "slug": "comic/chap-13-pg609",
+          "label": "February 23, 2023 - Chap 13 - PG609"
+        },
+        {
+          "slug": "comic/chap-13-pg610",
+          "label": "February 27, 2023 - Chap 13 - PG610"
+        },
+        {
+          "slug": "comic/chap-13-pg611",
+          "label": "March 2, 2023 - Chap 13 - PG611"
+        },
+        {
+          "slug": "comic/chap-13-pg612",
+          "label": "March 6, 2023 - Chap 13 - PG612"
+        },
+        {
+          "slug": "comic/chap-13-pg613",
+          "label": "March 9, 2023 - Chap 13 - PG613"
+        },
+        {
+          "slug": "comic/chap-13-pg614",
+          "label": "March 13, 2023 - Chap 13 - PG614"
+        },
+        {
+          "slug": "comic/chap-13-pg615",
+          "label": "March 16, 2023 - Chap 13 - PG615"
+        },
+        {
+          "slug": "comic/chap-13-pg616",
+          "label": "March 20, 2023 - Chap 13 - PG616"
+        },
+        {
+          "slug": "comic/chap-13-pg617",
+          "label": "March 23, 2023 - Chap 13 - PG617"
+        },
+        {
+          "slug": "comic/chap-13-pg618",
+          "label": "March 27, 2023 - Chap 13 - PG618"
+        },
+        {
+          "slug": "comic/chap-13-pg619",
+          "label": "March 30, 2023 - Chap 13 - PG619"
+        },
+        {
+          "slug": "comic/chap-13-pg620",
+          "label": "April 3, 2023 - Chap 13 - PG620"
+        },
+        {
+          "slug": "comic/chap-13-pg621",
+          "label": "April 6, 2023 - Chap 13 - PG621"
+        },
+        {
+          "slug": "comic/chap-13-pg622",
+          "label": "April 10, 2023 - Chap 13 - PG622"
+        },
+        {
+          "slug": "comic/chap-13-pg623",
+          "label": "April 13, 2023 - Chap 13 - PG623"
+        },
+        {
+          "slug": "comic/chap-13-pg624",
+          "label": "April 17, 2023 - Chap 13 - PG624"
+        },
+        {
+          "slug": "comic/chap-13-pg625",
+          "label": "April 20, 2023 - Chap 13 - PG625"
+        },
+        {
+          "slug": "comic/chap-13-pg626",
+          "label": "April 24, 2023 - Chap 13 - PG626"
+        },
+        {
+          "slug": "comic/chap-13-pg627",
+          "label": "April 27, 2023 - Chap 13 - PG627"
+        },
+        {
+          "slug": "comic/chap-13-pg628",
+          "label": "May 1, 2023 - Chap 13 - PG628"
+        },
+        {
+          "slug": "comic/chap-13-pg629",
+          "label": "May 4, 2023 - Chap 13 - PG629"
+        },
+        {
+          "slug": "comic/chap-13-pg630",
+          "label": "May 8, 2023 - Chap 13 - PG630"
+        },
+        {
+          "slug": "comic/chap-13-pg631",
+          "label": "May 11, 2023 - Chap 13 - PG631"
+        },
+        {
+          "slug": "comic/chap-13-pg632",
+          "label": "May 15, 2023 - Chap 13 - PG632"
+        },
+        {
+          "slug": "comic/chap-13-pg633",
+          "label": "May 18, 2023 - Chap 13 - PG633"
+        },
+        {
+          "slug": "comic/chap-13-pg634",
+          "label": "May 22, 2023 - Chap 13 - PG634"
+        },
+        {
+          "slug": "comic/chap-13-pg635",
+          "label": "May 25, 2023 - Chap 13 - PG635"
+        },
+        {
+          "slug": "comic/chap-13-pg636",
+          "label": "May 29, 2023 - Chap 13 - PG636"
+        },
+        {
+          "slug": "comic/chap-13-pg637",
+          "label": "June 1, 2023 - Chap 13 - PG637"
+        },
+        {
+          "slug": "comic/chap-13-pg638",
+          "label": "June 5, 2023 - Chap 13 - PG638"
+        },
+        {
+          "slug": "comic/chap-13-pg639",
+          "label": "June 8, 2023 - Chap 13 - PG639"
+        },
+        {
+          "slug": "comic/novae-merch-store-officially-open",
+          "label": "June 18, 2023 - Novae Merch Store Officially Open! "
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Into the Depth",
+      "pages": [
+        {
+          "slug": "comic/chap-14-into-the-depth",
+          "label": "June 19, 2023 - Chap 14 - Into the Depth"
+        },
+        {
+          "slug": "comic/chap-14-pg640",
+          "label": "June 22, 2023 - Chap 14 - PG640"
+        },
+        {
+          "slug": "comic/chap-14-pg641",
+          "label": "June 26, 2023 - Chap 14 - PG641"
+        },
+        {
+          "slug": "comic/chap-14-pg642",
+          "label": "June 29, 2023 - Chap 14 - PG642"
+        },
+        {
+          "slug": "comic/chap-14-pg643",
+          "label": "July 3, 2023 - Chap 14 - PG643"
+        },
+        {
+          "slug": "comic/chap-14-pg644",
+          "label": "July 6, 2023 - Chap 14 - PG644"
+        },
+        {
+          "slug": "comic/chap-14-pg645",
+          "label": "July 10, 2023 - Chap 14 - PG645"
+        },
+        {
+          "slug": "comic/chap-14-pg646",
+          "label": "July 13, 2023 - Chap 14 - PG646"
+        },
+        {
+          "slug": "comic/chap-14-pg647",
+          "label": "July 17, 2023 - Chap 14 - PG647"
+        },
+        {
+          "slug": "comic/chap-14-pg648",
+          "label": "July 19, 2023 - Chap 14 - PG648"
+        },
+        {
+          "slug": "comic/chap-14-pg649",
+          "label": "July 20, 2023 - Chap 14 - PG649"
+        },
+        {
+          "slug": "comic/chap-14-pg650",
+          "label": "July 24, 2023 - Chap 14 - PG650"
+        },
+        {
+          "slug": "comic/chap-14-pg651",
+          "label": "July 26, 2023 - Chap 14 - PG651"
+        },
+        {
+          "slug": "comic/chap-14-pg652",
+          "label": "July 27, 2023 - Chap 14 - PG652"
+        },
+        {
+          "slug": "comic/chap-14-pg653",
+          "label": "July 31, 2023 - Chap 14 - PG653"
+        },
+        {
+          "slug": "comic/chap-14-pg654",
+          "label": "August 2, 2023 - Chap 14 - PG654"
+        },
+        {
+          "slug": "comic/chap-14-pg655",
+          "label": "August 3, 2023 - Chap 14 - PG655"
+        },
+        {
+          "slug": "comic/chap-14-pg656",
+          "label": "August 7, 2023 - Chap 14 - PG656"
+        },
+        {
+          "slug": "comic/chap-14-pg657",
+          "label": "August 9, 2023 - Chap 14 - PG657"
+        },
+        {
+          "slug": "comic/chap-14-pg658",
+          "label": "August 10, 2023 - Chap 14 - PG658"
+        },
+        {
+          "slug": "comic/chap-14-pg659",
+          "label": "August 14, 2023 - Chap 14 - PG659"
+        },
+        {
+          "slug": "comic/chap-14-pg660",
+          "label": "August 16, 2023 - Chap 14 - PG660"
+        },
+        {
+          "slug": "comic/chap-14-pg661",
+          "label": "August 17, 2023 - Chap 14 - PG661"
+        },
+        {
+          "slug": "comic/chap-14-pg662",
+          "label": "August 21, 2023 - Chap 14 - PG662"
+        },
+        {
+          "slug": "comic/chap-14-pg663",
+          "label": "August 23, 2023 - Chap 14 - PG663"
+        },
+        {
+          "slug": "comic/chap-14-pg664",
+          "label": "August 24, 2023 - Chap 14 - PG664"
+        },
+        {
+          "slug": "comic/chap-14-pg665",
+          "label": "August 28, 2023 - Chap 14 - PG665"
+        },
+        {
+          "slug": "comic/chap-14-pg666",
+          "label": "August 30, 2023 - Chap 14 - PG666"
+        },
+        {
+          "slug": "comic/chap-14-pg667",
+          "label": "August 30, 2023 - Chap 14 - PG667"
+        },
+        {
+          "slug": "comic/chap-14-pg668",
+          "label": "September 1, 2023 - Chap 14 - PG668"
+        },
+        {
+          "slug": "comic/chap-14-pg669",
+          "label": "September 4, 2023 - Chap 14 - PG669"
+        },
+        {
+          "slug": "comic/chap-14-pg670",
+          "label": "September 6, 2023 - Chap 14 - PG670"
+        },
+        {
+          "slug": "comic/chap-14-pg671",
+          "label": "September 7, 2023 - Chap 14 - PG671"
+        },
+        {
+          "slug": "comic/chap-14-pg672",
+          "label": "September 11, 2023 - Chap 14 - PG672"
+        },
+        {
+          "slug": "comic/chap-14-pg673",
+          "label": "September 13, 2023 - Chap 14 - PG673"
+        },
+        {
+          "slug": "comic/chap-14-pg674",
+          "label": "September 14, 2023 - Chap 14 - PG674"
+        },
+        {
+          "slug": "comic/chap-14-pg675",
+          "label": "September 18, 2023 - Chap 14 - PG675"
+        },
+        {
+          "slug": "comic/chap-14-pg676",
+          "label": "September 20, 2023 - Chap 14 - PG676"
+        },
+        {
+          "slug": "comic/chap-14-pg677",
+          "label": "September 21, 2023 - Chap 14 - PG677"
+        },
+        {
+          "slug": "comic/chap-14-pg678",
+          "label": "September 25, 2023 - Chap 14 - PG678"
+        },
+        {
+          "slug": "comic/chap-14-pg679",
+          "label": "September 27, 2023 - Chap 14 - PG679"
+        },
+        {
+          "slug": "comic/chap-14-pg680",
+          "label": "September 28, 2023 - Chap 14 - PG680"
+        },
+        {
+          "slug": "comic/chap-14-pg681",
+          "label": "October 2, 2023 - Chap 14 - PG681"
+        },
+        {
+          "slug": "comic/chap-14-pg682",
+          "label": "October 4, 2023 - Chap 14 - PG682"
+        },
+        {
+          "slug": "comic/chap-14-pg683",
+          "label": "October 4, 2023 - Chap 14 - PG683"
+        },
+        {
+          "slug": "comic/chap-14-pg684",
+          "label": "October 9, 2023 - Chap 14 - PG684"
+        },
+        {
+          "slug": "comic/chap-14-pg685",
+          "label": "October 11, 2023 - Chap 14 - PG685"
+        },
+        {
+          "slug": "comic/chap-14-pg686",
+          "label": "October 12, 2023 - Chap 14 - PG686"
+        },
+        {
+          "slug": "comic/chap-14-pg687",
+          "label": "October 16, 2023 - Chap 14 - PG687"
+        },
+        {
+          "slug": "comic/chap-14-pg688",
+          "label": "October 18, 2023 - Chap 14 - PG688"
+        },
+        {
+          "slug": "comic/chap-14-pg689",
+          "label": "October 19, 2023 - Chap 14 - PG689"
+        },
+        {
+          "slug": "comic/chap-14-pg690",
+          "label": "October 23, 2023 - Chap 14 - PG690"
+        },
+        {
+          "slug": "comic/chap-14-pg691",
+          "label": "October 25, 2023 - Chap 14 - PG691"
+        },
+        {
+          "slug": "comic/chap-14-pg692",
+          "label": "October 26, 2023 - Chap 14 - PG692"
+        },
+        {
+          "slug": "comic/chap-14-pg693",
+          "label": "October 30, 2023 - Chap 14 - PG693"
+        },
+        {
+          "slug": "comic/chap-14-pg694",
+          "label": "November 1, 2023 - Chap 14 - PG694"
+        },
+        {
+          "slug": "comic/chap-14-pg695",
+          "label": "November 2, 2023 - Chap 14 - PG695"
+        },
+        {
+          "slug": "comic/chap-14-pg696",
+          "label": "November 6, 2023 - Chap 14 - PG696"
+        },
+        {
+          "slug": "comic/chap-14-pg697",
+          "label": "November 8, 2023 - Chap 14 - PG697"
+        },
+        {
+          "slug": "comic/chap-14-pg698",
+          "label": "November 9, 2023 - Chap 14 - PG698"
+        },
+        {
+          "slug": "comic/chap-14-pg699",
+          "label": "November 13, 2023 - Chap 14 - PG699"
+        },
+        {
+          "slug": "comic/chap-14-pg700",
+          "label": "November 15, 2023 - Chap 14 - PG700"
+        },
+        {
+          "slug": "comic/chap-14-pg701",
+          "label": "November 16, 2023 - Chap 14 - PG701"
+        },
+        {
+          "slug": "comic/chap-14-pg702",
+          "label": "November 20, 2023 - Chap 14 - PG702"
+        },
+        {
+          "slug": "comic/chap-14-pg703",
+          "label": "November 22, 2023 - Chap 14 - PG703"
+        },
+        {
+          "slug": "comic/chap-14-pg704",
+          "label": "November 23, 2023 - Chap 14 - PG704"
+        },
+        {
+          "slug": "comic/chap-14-pg705",
+          "label": "November 27, 2023 - Chap 14 - PG705"
+        },
+        {
+          "slug": "comic/chap-14-pg706",
+          "label": "November 29, 2023 - Chap 14 - PG706"
+        },
+        {
+          "slug": "comic/chap-14-pg707",
+          "label": "November 30, 2023 - Chap 14 - PG707"
+        },
+        {
+          "slug": "comic/chap-14-pg707-2",
+          "label": "December 4, 2023 - Chap 14 - PG708"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Apastron",
+      "pages": [
+        {
+          "slug": "comic/chap-15-apastron",
+          "label": "December 18, 2023 - Chap 15 - Apastron"
+        },
+        {
+          "slug": "comic/chap-15-pg709",
+          "label": "December 20, 2023 - Chap 15 - PG709"
+        },
+        {
+          "slug": "comic/chap-15-pg709-2",
+          "label": "December 21, 2023 - Chap 15 - PG710"
+        },
+        {
+          "slug": "comic/chap-15-pg711",
+          "label": "December 27, 2023 - Chap 15 - PG711"
+        },
+        {
+          "slug": "comic/chap-15-pg712",
+          "label": "December 28, 2023 - Chap 15 - PG712"
+        },
+        {
+          "slug": "comic/chap-15-pg713",
+          "label": "January 1, 2024 - Chap 15 - PG713"
+        },
+        {
+          "slug": "comic/chap-15-pg714",
+          "label": "January 3, 2024 - Chap 15 - PG714"
+        },
+        {
+          "slug": "comic/chap-15-pg715",
+          "label": "January 4, 2024 - Chap 15 - PG715"
+        },
+        {
+          "slug": "comic/chap-15-pg716",
+          "label": "January 8, 2024 - Chap 15 - PG716"
+        },
+        {
+          "slug": "comic/chap-15-pg717",
+          "label": "January 10, 2024 - Chap 15 - PG717"
+        },
+        {
+          "slug": "comic/chap-15-pg718",
+          "label": "January 11, 2024 - Chap 15 - PG718"
+        },
+        {
+          "slug": "comic/chap-15-pg719",
+          "label": "January 15, 2024 - Chap 15 - PG719"
+        },
+        {
+          "slug": "comic/chap-15-pg720",
+          "label": "January 17, 2024 - Chap 15 - PG720"
+        },
+        {
+          "slug": "comic/chap-15-pg721",
+          "label": "January 18, 2024 - Chap 15 - PG721"
+        },
+        {
+          "slug": "comic/chap-15-pg722",
+          "label": "January 22, 2024 - Chap 15 - PG722"
+        },
+        {
+          "slug": "comic/chap-15-pg723",
+          "label": "January 24, 2024 - Chap 15 - PG723"
+        },
+        {
+          "slug": "comic/chap-15-pg724",
+          "label": "January 25, 2024 - Chap 15 - PG724"
+        },
+        {
+          "slug": "comic/chap-15-pg725",
+          "label": "January 29, 2024 - Chap 15 - PG725"
+        },
+        {
+          "slug": "comic/chap-15-pg726",
+          "label": "January 31, 2024 - Chap 15 - PG726"
+        },
+        {
+          "slug": "comic/chap-15-pg727",
+          "label": "February 1, 2024 - Chap 15 - PG727"
+        },
+        {
+          "slug": "comic/chap-15-pg728",
+          "label": "February 5, 2024 - Chap 15 - PG728"
+        },
+        {
+          "slug": "comic/chap-15-pg729-730",
+          "label": "February 7, 2024 - Chap 15 - PG729-730"
+        },
+        {
+          "slug": "comic/chap-15-pg731",
+          "label": "February 8, 2024 - Chap 15 - PG731"
+        },
+        {
+          "slug": "comic/chap-15-pg732",
+          "label": "February 12, 2024 - Chap 15 - PG732"
+        },
+        {
+          "slug": "comic/chap-15-pg733",
+          "label": "February 14, 2024 - Chap 15 - PG733"
+        },
+        {
+          "slug": "comic/chap-15-pg734",
+          "label": "February 15, 2024 - Chap 15 - PG734"
+        },
+        {
+          "slug": "comic/chap-15-pg735",
+          "label": "February 19, 2024 - Chap 15 - PG735"
+        },
+        {
+          "slug": "comic/chap-15-pg736",
+          "label": "February 21, 2024 - Chap 15 - PG736"
+        },
+        {
+          "slug": "comic/chap-15-pg737",
+          "label": "February 22, 2024 - Chap 15 - PG737"
+        },
+        {
+          "slug": "comic/chap-15-pg738",
+          "label": "February 26, 2024 - Chap 15 - PG738"
+        },
+        {
+          "slug": "comic/chap-15-pg739",
+          "label": "February 28, 2024 - Chap 15 - PG739"
+        },
+        {
+          "slug": "comic/chap-15-pg740",
+          "label": "February 29, 2024 - Chap 15 - PG740"
+        },
+        {
+          "slug": "comic/chap-15-pg741",
+          "label": "March 4, 2024 - Chap 15 - PG741"
+        },
+        {
+          "slug": "comic/chap-15-pg742",
+          "label": "March 4, 2024 - Chap 15 - PG742"
+        },
+        {
+          "slug": "comic/chap-15-pg743",
+          "label": "March 6, 2024 - Chap 15 - PG743"
+        },
+        {
+          "slug": "comic/chap-15-pg744",
+          "label": "March 7, 2024 - Chap 15 - PG744"
+        },
+        {
+          "slug": "comic/chap-15-pg745",
+          "label": "March 11, 2024 - Chap 15 - PG745"
+        },
+        {
+          "slug": "comic/chap-15-pg746",
+          "label": "March 13, 2024 - Chap 15 - PG746"
+        },
+        {
+          "slug": "comic/chap-15-pg747",
+          "label": "March 14, 2024 - Chap 15 - PG747"
+        },
+        {
+          "slug": "comic/chap-15-pg748",
+          "label": "March 18, 2024 - Chap 15 - PG748"
+        },
+        {
+          "slug": "comic/chap-15-pg749",
+          "label": "March 20, 2024 - Chap 15 - PG749"
+        },
+        {
+          "slug": "comic/chap-15-pg750",
+          "label": "March 21, 2024 - Chap 15 - PG750"
+        },
+        {
+          "slug": "comic/chap-15-pg751-752",
+          "label": "March 25, 2024 - Chap 15 - PG751-752"
+        },
+        {
+          "slug": "comic/chap-15-pg753",
+          "label": "March 28, 2024 - Chap 15 - PG753"
+        },
+        {
+          "slug": "comic/chap-15-pg754",
+          "label": "April 1, 2024 - Chap 15 - PG754"
+        },
+        {
+          "slug": "comic/chap-15-pg755",
+          "label": "April 3, 2024 - Chap 15 - PG755"
+        },
+        {
+          "slug": "comic/chap-15-pg756",
+          "label": "April 3, 2024 - Chap 15 - PG756"
+        },
+        {
+          "slug": "comic/chap-15-pg757",
+          "label": "April 8, 2024 - Chap 15 - PG757"
+        },
+        {
+          "slug": "comic/chap-15-pg758",
+          "label": "April 11, 2024 - Chap 15 - PG758"
+        },
+        {
+          "slug": "comic/chap-15-pg759",
+          "label": "April 15, 2024 - Chap 15 - PG759"
+        },
+        {
+          "slug": "comic/chap-15-pg760",
+          "label": "April 17, 2024 - Chap 15 - PG760"
+        },
+        {
+          "slug": "comic/chap-15-pg761",
+          "label": "April 18, 2024 - Chap 15 - PG761"
+        },
+        {
+          "slug": "comic/chap-15-pg762",
+          "label": "April 22, 2024 - Chap 15 - PG762"
+        },
+        {
+          "slug": "comic/chap-15-pg763",
+          "label": "April 24, 2024 - Chap 15 - PG763"
+        },
+        {
+          "slug": "comic/chap-15-pg764",
+          "label": "April 25, 2024 - Chap 15 - PG764"
+        },
+        {
+          "slug": "comic/chap-15-pg765",
+          "label": "April 29, 2024 - Chap 15 - PG765"
+        },
+        {
+          "slug": "comic/chap-15-pg766",
+          "label": "May 1, 2024 - Chap 15 - PG766"
+        },
+        {
+          "slug": "comic/chap-15-pg767",
+          "label": "May 2, 2024 - Chap 15 - PG767"
+        },
+        {
+          "slug": "comic/chap-15-pg768",
+          "label": "May 6, 2024 - Chap 15 - PG768"
+        },
+        {
+          "slug": "comic/chap-15-pg769",
+          "label": "May 8, 2024 - Chap 15 - PG769"
+        },
+        {
+          "slug": "comic/chap-15-pg770",
+          "label": "May 9, 2024 - Chap 15 - PG770"
+        },
+        {
+          "slug": "comic/chap-15-pg771",
+          "label": "May 13, 2024 - Chap 15 - PG771"
+        },
+        {
+          "slug": "comic/chap-15-pg772",
+          "label": "May 15, 2024 - Chap 15 - PG772"
+        },
+        {
+          "slug": "comic/chap-15-pg773",
+          "label": "May 16, 2024 - Chap 15 - PG773"
+        },
+        {
+          "slug": "comic/chap-15-pg774",
+          "label": "May 20, 2024 - Chap 15 - PG774"
+        },
+        {
+          "slug": "comic/chap-15-pg775",
+          "label": "May 22, 2024 - Chap 15 - PG775"
+        },
+        {
+          "slug": "comic/chap-15-pg776",
+          "label": "May 23, 2024 - Chap 15 - PG776"
+        },
+        {
+          "slug": "comic/chap-15-pg777",
+          "label": "May 27, 2024 - Chap 15 - PG777"
+        },
+        {
+          "slug": "comic/chap-15-pg778",
+          "label": "May 29, 2024 - Chap 15 - PG778"
+        },
+        {
+          "slug": "comic/chap-15-pg779",
+          "label": "May 30, 2024 - Chap 15 - PG779"
+        },
+        {
+          "slug": "comic/chap-15-pg780",
+          "label": "June 3, 2024 - Chap 15 - PG780"
+        },
+        {
+          "slug": "comic/chap-15-pg781",
+          "label": "June 5, 2024 - Chap 15 - PG781"
+        },
+        {
+          "slug": "comic/chap-15-pg782",
+          "label": "June 6, 2024 - Chap 15 - PG782"
+        },
+        {
+          "slug": "comic/chap-15-pg783",
+          "label": "June 10, 2024 - Chap 15 - PG783"
+        },
+        {
+          "slug": "comic/chap-15-pg784",
+          "label": "June 12, 2024 - Chap 15 - PG784"
+        },
+        {
+          "slug": "comic/chap-15-pg785",
+          "label": "June 13, 2024 - Chap 15 - PG785"
+        },
+        {
+          "slug": "comic/chap-15-pg786",
+          "label": "June 17, 2024 - Chap 15 - PG786"
+        },
+        {
+          "slug": "comic/chap-15-pg787",
+          "label": "June 19, 2024 - Chap 15 - PG787"
+        },
+        {
+          "slug": "comic/chap-15-pg788",
+          "label": "June 20, 2024 - Chap 15 - PG788"
+        },
+        {
+          "slug": "comic/chap-15-pg789",
+          "label": "June 24, 2024 - Chap 15 - PG789"
+        },
+        {
+          "slug": "comic/chap-15-pg790",
+          "label": "June 26, 2024 - Chap 15 - PG790"
+        },
+        {
+          "slug": "comic/happy-pride-2024",
+          "label": "June 29, 2024 - Happy Pride 2024!"
+        },
+        {
+          "slug": "comic/novae-lore-encyclopedia-p1",
+          "label": "July 15, 2024 - Novae Lore Encyclopedia P1"
+        },
+        {
+          "slug": "comic/novae-lore-encyclopedia-p2",
+          "label": "July 16, 2024 - Novae Lore Encyclopedia P2"
+        },
+        {
+          "slug": "comic/novae-lore-encyclopedia-p3",
+          "label": "July 17, 2024 - Novae Lore Encyclopedia P3"
+        },
+        {
+          "slug": "comic/novae-lore-encyclopedia-p4",
+          "label": "July 18, 2024 - Novae Lore Encyclopedia P4"
+        },
+        {
+          "slug": "comic/novae-lore-encyclopedia-p5",
+          "label": "July 19, 2024 - Novae Lore Encyclopedia P5"
+        },
+        {
+          "slug": "comic/novae-lore-encyclopedia-p6",
+          "label": "July 20, 2024 - Novae Lore Encyclopedia P6"
+        },
+        {
+          "slug": "comic/novae-lore-encyclopedia-p7",
+          "label": "July 21, 2024 - Novae Lore Encyclopedia P7"
+        },
+        {
+          "slug": "comic/novae-lore-encyclopedia-p8",
+          "label": "July 22, 2024 - Novae Lore Encyclopedia P8"
+        },
+        {
+          "slug": "comic/novae-lore-encyclopedia-p9",
+          "label": "July 23, 2024 - Novae Lore Encyclopedia P9"
+        },
+        {
+          "slug": "comic/novae-lore-encyclopedia-p10",
+          "label": "July 24, 2024 - Novae Lore Encyclopedia P10"
+        },
+        {
+          "slug": "comic/novae-lore-encyclopedia-p11",
+          "label": "July 26, 2024 - Novae Lore Encyclopedia P11"
+        },
+        {
+          "slug": "comic/novae-lore-encyclopedia-p12",
+          "label": "July 29, 2024 - Novae Lore Encyclopedia P12"
+        },
+        {
+          "slug": "comic/novae-lore-encyclopedia-p13",
+          "label": "August 1, 2024 - Novae Lore Encyclopedia P13"
+        },
+        {
+          "slug": "comic/cover-reveal-dates",
+          "label": "August 5, 2024 - Cover Reveal dates~"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Periastron",
+      "pages": [
+        {
+          "slug": "comic/chap-16-periastron",
+          "label": "August 19, 2024 - Chap 16 - Periastron"
+        },
+        {
+          "slug": "comic/chap-16-pg791",
+          "label": "August 21, 2024 - Chap 16 - PG791"
+        },
+        {
+          "slug": "comic/chap-16-pg792",
+          "label": "August 22, 2024 - Chap 16 - PG792"
+        },
+        {
+          "slug": "comic/chap-16-pg793",
+          "label": "August 26, 2024 - Chap 16 - PG793"
+        },
+        {
+          "slug": "comic/chap-16-pg794",
+          "label": "August 28, 2024 - Chap 16 - PG794"
+        },
+        {
+          "slug": "comic/chap-16-pg795",
+          "label": "August 29, 2024 - Chap 16 - PG795"
+        },
+        {
+          "slug": "comic/chap-16-pg796",
+          "label": "September 2, 2024 - Chap 16 - PG796"
+        },
+        {
+          "slug": "comic/chap-16-pg797",
+          "label": "September 4, 2024 - Chap 16 - PG797"
+        },
+        {
+          "slug": "comic/chap-16-pg798",
+          "label": "September 4, 2024 - Chap 16 - PG798"
+        },
+        {
+          "slug": "comic/chap-16-pg799",
+          "label": "September 9, 2024 - Chap 16 - PG799"
+        },
+        {
+          "slug": "comic/chap-16-pg800",
+          "label": "September 11, 2024 - Chap 16 - PG800"
+        },
+        {
+          "slug": "comic/chap-16-pg801",
+          "label": "September 12, 2024 - Chap 16 - PG801"
+        },
+        {
+          "slug": "comic/chap-16-pg802",
+          "label": "September 16, 2024 - Chap 16 - PG802"
+        },
+        {
+          "slug": "comic/chap-16-pg803",
+          "label": "September 18, 2024 - Chap 16 - PG803"
+        },
+        {
+          "slug": "comic/chap-16-pg804",
+          "label": "September 19, 2024 - Chap 16 - PG804"
+        },
+        {
+          "slug": "comic/chap-16-pg805",
+          "label": "September 23, 2024 - Chap 16 - PG805"
+        },
+        {
+          "slug": "comic/chap-16-pg806",
+          "label": "September 25, 2024 - Chap 16 - PG806"
+        },
+        {
+          "slug": "comic/chap-16-pg807",
+          "label": "September 26, 2024 - Chap 16 - PG807"
+        },
+        {
+          "slug": "comic/chap-16-pg808",
+          "label": "September 30, 2024 - Chap 16 - PG808"
+        },
+        {
+          "slug": "comic/chap-16-pg809",
+          "label": "October 2, 2024 - Chap 16 - PG809"
+        },
+        {
+          "slug": "comic/chap-16-pg810",
+          "label": "October 3, 2024 - Chap 16 - PG810"
+        },
+        {
+          "slug": "comic/chap-16-pg811",
+          "label": "October 7, 2024 - Chap 16 - PG811"
+        },
+        {
+          "slug": "comic/chap-16-pg812",
+          "label": "October 9, 2024 - Chap 16 - PG812"
+        },
+        {
+          "slug": "comic/chap-16-pg813",
+          "label": "October 10, 2024 - Chap 16 - PG813"
+        },
+        {
+          "slug": "comic/chap-16-pg814",
+          "label": "October 14, 2024 - Chap 16 - PG814"
+        },
+        {
+          "slug": "comic/chap-16-pg815",
+          "label": "October 16, 2024 - Chap 16 - PG815"
+        },
+        {
+          "slug": "comic/chap-16-pg816",
+          "label": "October 17, 2024 - Chap 16 - PG816"
+        },
+        {
+          "slug": "comic/chap-16-pg817",
+          "label": "October 21, 2024 - Chap 16 - PG817"
+        },
+        {
+          "slug": "comic/chap-16-pg818",
+          "label": "October 23, 2024 - Chap 16 - PG818"
+        },
+        {
+          "slug": "comic/chap-16-pg819",
+          "label": "October 24, 2024 - Chap 16 - PG819"
+        },
+        {
+          "slug": "comic/chap-16-pg820",
+          "label": "October 28, 2024 - Chap 16 - PG820"
+        },
+        {
+          "slug": "comic/chap-16-pg821",
+          "label": "October 30, 2024 - Chap 16 - PG821"
+        },
+        {
+          "slug": "comic/chap-16-pg822",
+          "label": "October 31, 2024 - Chap 16 - PG822"
+        },
+        {
+          "slug": "comic/chap-16-pg823",
+          "label": "November 4, 2024 - Chap 16 - PG823"
+        },
+        {
+          "slug": "comic/chap-16-pg824",
+          "label": "November 6, 2024 - Chap 16 - PG824"
+        },
+        {
+          "slug": "comic/chap-16-pg825",
+          "label": "November 7, 2024 - Chap 16 - PG825"
+        },
+        {
+          "slug": "comic/chap-16-pg826",
+          "label": "November 11, 2024 - Chap 16 - PG826"
+        },
+        {
+          "slug": "comic/chap-16-pg827",
+          "label": "November 13, 2024 - Chap 16 - PG827"
+        },
+        {
+          "slug": "comic/chap-16-pg828",
+          "label": "November 14, 2024 - Chap 16 - PG828"
+        },
+        {
+          "slug": "comic/chap-16-pg829",
+          "label": "November 18, 2024 - Chap 16 - PG829"
+        },
+        {
+          "slug": "comic/chap-16-pg830",
+          "label": "November 20, 2024 - Chap 16 - PG830"
+        },
+        {
+          "slug": "comic/chap-16-pg831",
+          "label": "November 20, 2024 - Chap 16 - PG831"
+        },
+        {
+          "slug": "comic/chap-16-pg832",
+          "label": "November 24, 2024 - Chap 16 - PG832"
+        },
+        {
+          "slug": "comic/chap-16-pg833",
+          "label": "November 27, 2024 - Chap 16 - PG833"
+        },
+        {
+          "slug": "comic/chap-16-pg834",
+          "label": "December 2, 2024 - Chap 16 - PG834"
+        },
+        {
+          "slug": "comic/chap-16-pg835",
+          "label": "December 4, 2024 - Chap 16 - PG835"
+        },
+        {
+          "slug": "comic/chap-16-pg836",
+          "label": "December 5, 2024 - Chap 16 - PG836"
+        },
+        {
+          "slug": "comic/chap-16-pg837",
+          "label": "December 9, 2024 - Chap 16 - PG837"
+        },
+        {
+          "slug": "comic/chap-16-pg838",
+          "label": "December 11, 2024 - Chap 16 - PG838"
+        },
+        {
+          "slug": "comic/chap-16-pg839",
+          "label": "December 12, 2024 - Chap 16 - PG839"
+        },
+        {
+          "slug": "comic/chap-16-pg840",
+          "label": "December 16, 2024 - Chap 16 - PG840"
+        },
+        {
+          "slug": "comic/chap-16-pg841",
+          "label": "December 17, 2024 - Chap 16 - PG841"
+        },
+        {
+          "slug": "comic/chap-16-pg842",
+          "label": "December 19, 2024 - Chap 16 - PG842"
+        },
+        {
+          "slug": "comic/chap-16-pg843",
+          "label": "December 23, 2024 - Chap 16 - PG843"
+        },
+        {
+          "slug": "comic/chap-16-pg844",
+          "label": "December 26, 2024 - Chap 16 - PG844"
+        },
+        {
+          "slug": "comic/chap-16-pg845",
+          "label": "December 30, 2024 - Chap 16 - PG845"
+        },
+        {
+          "slug": "comic/chap-16-pg846",
+          "label": "January 1, 2025 - Chap 16 - PG846"
+        },
+        {
+          "slug": "comic/chap-16-pg847",
+          "label": "January 2, 2025 - Chap 16 - PG847"
+        },
+        {
+          "slug": "comic/chap-16-pg848",
+          "label": "January 6, 2025 - Chap 16 - PG848"
+        },
+        {
+          "slug": "comic/top-web-comics-chap-16-pg849",
+          "label": "January 8, 2025 - Chap 16 - PG849"
+        },
+        {
+          "slug": "comic/chap-16-pg850",
+          "label": "January 9, 2025 - Chap 16 - PG850"
+        },
+        {
+          "slug": "comic/chap-16-pg851",
+          "label": "January 13, 2025 - Chap 16 - PG851"
+        },
+        {
+          "slug": "comic/chap-16-pg852",
+          "label": "January 15, 2025 - Chap 16 - PG852"
+        },
+        {
+          "slug": "comic/patreon-bonus-comics",
+          "label": "January 28, 2025 - Patreon Bonus Comics"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Weaving Bridges",
+      "pages": [
+        {
+          "slug": "comic/chap-17-return-dates",
+          "label": "January 31, 2025 - Chap 17 Return dates~"
+        },
+        {
+          "slug": "comic/chapter-17-weaving-bridges",
+          "label": "February 14, 2025 - Chapter 17 - Weaving Bridges"
+        },
+        {
+          "slug": "comic/chap-17-pg853",
+          "label": "February 17, 2025 - Chap 17 - PG853"
+        },
+        {
+          "slug": "comic/chap-17-pg854",
+          "label": "February 19, 2025 - Chap 17 - PG854"
+        },
+        {
+          "slug": "comic/chap-17-pg855",
+          "label": "February 20, 2025 - Chap 17 - PG855"
+        },
+        {
+          "slug": "comic/chap-17-pg856",
+          "label": "February 24, 2025 - Chap 17 - PG856"
+        },
+        {
+          "slug": "comic/chap-17-pg857",
+          "label": "February 26, 2025 - Chap 17 - PG857"
+        },
+        {
+          "slug": "comic/chap-17-pg858",
+          "label": "February 27, 2025 - Chap 17 - PG858"
+        },
+        {
+          "slug": "comic/chap-17-pg859",
+          "label": "March 3, 2025 - Chap 17 - PG859"
+        },
+        {
+          "slug": "comic/chap-17-pg860",
+          "label": "March 5, 2025 - Chap 17 - PG860"
+        },
+        {
+          "slug": "comic/chap-17-pg861",
+          "label": "March 6, 2025 - Chap 17 - PG861"
+        },
+        {
+          "slug": "comic/chap-17-pg862",
+          "label": "March 10, 2025 - Chap 17 - PG862"
+        },
+        {
+          "slug": "comic/chap-17-pg863",
+          "label": "March 12, 2025 - Chap 17 - PG863"
+        },
+        {
+          "slug": "comic/chap-17-pg864",
+          "label": "March 13, 2025 - Chap 17 - PG864"
+        },
+        {
+          "slug": "comic/chap-17-pg865",
+          "label": "March 17, 2025 - Chap 17 - PG865"
+        },
+        {
+          "slug": "comic/chap-17-pg866",
+          "label": "March 19, 2025 - Chap 17 - PG866"
+        },
+        {
+          "slug": "comic/chap-17-pg867",
+          "label": "March 20, 2025 - Chap 17 - PG867"
+        },
+        {
+          "slug": "comic/chap-17-pg868",
+          "label": "March 24, 2025 - Chap 17 - PG868"
+        },
+        {
+          "slug": "comic/chap-17-pg869",
+          "label": "March 26, 2025 - Chap 17 - PG869"
+        },
+        {
+          "slug": "comic/chap-17-pg870",
+          "label": "March 27, 2025 - Chap 17 - PG870"
+        },
+        {
+          "slug": "comic/chap-17-pg871",
+          "label": "March 31, 2025 - Chap 17 - PG871"
+        },
+        {
+          "slug": "comic/chap-17-pg872",
+          "label": "April 2, 2025 - Chap 17 - PG872"
+        },
+        {
+          "slug": "comic/chap-17-pg873",
+          "label": "April 3, 2025 - Chap 17 - PG873"
+        },
+        {
+          "slug": "comic/chap-17-pg874",
+          "label": "April 7, 2025 - Chap 17 - PG874"
+        },
+        {
+          "slug": "comic/chap-17-pg875",
+          "label": "April 9, 2025 - Chap 17 - PG875"
+        },
+        {
+          "slug": "comic/chap-17-pg876",
+          "label": "April 10, 2025 - Chap 17 - PG876"
+        },
+        {
+          "slug": "comic/chap-17-pg877",
+          "label": "April 14, 2025 - Chap 17 - PG877"
+        },
+        {
+          "slug": "comic/chap-17-pg878",
+          "label": "April 16, 2025 - Chap 17 - PG878"
+        },
+        {
+          "slug": "comic/chap-17-pg879",
+          "label": "April 17, 2025 - Chap 17 - PG879"
+        },
+        {
+          "slug": "comic/chap-17-pg880",
+          "label": "April 21, 2025 - Chap 17 - PG880"
+        },
+        {
+          "slug": "comic/chap-17-pg881",
+          "label": "April 23, 2025 - Chap 17 - PG881"
+        },
+        {
+          "slug": "comic/chap-17-pg882",
+          "label": "April 24, 2025 - Chap 17 - PG882"
+        },
+        {
+          "slug": "comic/chap-17-pg883",
+          "label": "April 28, 2025 - Chap 17 - PG883"
+        },
+        {
+          "slug": "comic/chap-17-pg884",
+          "label": "April 30, 2025 - Chap 17 - PG884"
+        },
+        {
+          "slug": "comic/chap-17-pg885",
+          "label": "May 1, 2025 - Chap 17 - PG885"
+        },
+        {
+          "slug": "comic/chap-17-pg886",
+          "label": "May 5, 2025 - Chap 17 - PG886"
+        },
+        {
+          "slug": "comic/chap-17-pg887",
+          "label": "May 6, 2025 - Chap 17 - PG887"
+        },
+        {
+          "slug": "comic/chap-17-pg888",
+          "label": "May 8, 2025 - Chap 17 - PG888"
+        },
+        {
+          "slug": "comic/chap-17-pg889",
+          "label": "May 12, 2025 - Chap 17 - PG889"
+        },
+        {
+          "slug": "comic/chap-17-pg890",
+          "label": "May 14, 2025 - Chap 17 - PG890"
+        },
+        {
+          "slug": "comic/chap-17-pg891",
+          "label": "May 15, 2025 - Chap 17 - PG891"
+        },
+        {
+          "slug": "comic/chap-17-pg892",
+          "label": "May 19, 2025 - Chap 17 - PG892"
+        },
+        {
+          "slug": "comic/chap-17-pg893",
+          "label": "May 21, 2025 - Chap 17 - PG893"
+        },
+        {
+          "slug": "comic/chap-17-pg894",
+          "label": "May 22, 2025 - Chap 17 - PG894"
+        },
+        {
+          "slug": "comic/chap-17-pg895",
+          "label": "May 26, 2025 - Chap 17 - PG895"
+        },
+        {
+          "slug": "comic/chap-17-pg896",
+          "label": "May 29, 2025 - Chap 17 - PG896"
+        },
+        {
+          "slug": "comic/chap-17-pg897",
+          "label": "June 2, 2025 - Chap 17 - PG897"
+        },
+        {
+          "slug": "comic/chap-17-pg898",
+          "label": "June 5, 2025 - Chap 17 - PG898"
+        },
+        {
+          "slug": "comic/chap-17-pg899",
+          "label": "June 9, 2025 - Chap 17 - PG899"
+        },
+        {
+          "slug": "comic/chap-17-pg900",
+          "label": "June 12, 2025 - Chap 17 - PG900"
+        },
+        {
+          "slug": "comic/chap-17-pg901",
+          "label": "June 16, 2025 - Chap 17-PG901"
+        },
+        {
+          "slug": "comic/chap-17-pg902",
+          "label": "June 19, 2025 - Chap 17-PG902"
+        },
+        {
+          "slug": "comic/chap-17-pg903",
+          "label": "June 23, 2025 - Chap 17-PG903"
+        },
+        {
+          "slug": "comic/chap-17-pg904",
+          "label": "June 26, 2025 - Chap 17-PG904"
+        },
+        {
+          "slug": "comic/chap-17-pg905",
+          "label": "June 30, 2025 - Chap 17-PG905"
+        },
+        {
+          "slug": "comic/chap-17-pg906",
+          "label": "July 3, 2025 - Chap 17-PG906"
+        },
+        {
+          "slug": "comic/chap-17-pg907",
+          "label": "July 7, 2025 - Chap 17-PG907"
+        },
+        {
+          "slug": "comic/chap-17-pg908",
+          "label": "July 10, 2025 - Chap 17-PG908"
+        },
+        {
+          "slug": "comic/chap-17-pg909",
+          "label": "July 14, 2025 - Chap 17-PG909"
+        },
+        {
+          "slug": "comic/chap-17-pg910",
+          "label": "July 17, 2025 - Chap 17-PG910"
+        },
+        {
+          "slug": "comic/chap-17-pg911",
+          "label": "July 21, 2025 - Chap 17-PG911"
+        },
+        {
+          "slug": "comic/chap-17-pg912",
+          "label": "July 24, 2025 - Chap 17-PG912"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Event Horizon",
+      "pages": [
+        {
+          "slug": "comic/chapter-18-return-date",
+          "label": "August 11, 2025 - Chapter 18 Return date~"
+        },
+        {
+          "slug": "comic/ringo-award-nomination",
+          "label": "August 21, 2025 - Ringo Award Nomination!"
+        },
+        {
+          "slug": "comic/chapter-18-event-horizon",
+          "label": "August 25, 2025 - Chapter 18 - Event Horizon"
+        },
+        {
+          "slug": "comic/chap-18-pg913",
+          "label": "August 28, 2025 - Chap 18-PG913"
+        },
+        {
+          "slug": "comic/chap-18-pg914",
+          "label": "September 1, 2025 - Chap 18-PG914"
+        },
+        {
+          "slug": "comic/chap-18-pg915",
+          "label": "September 4, 2025 - Chap 18-PG915"
+        },
+        {
+          "slug": "comic/chap-18-pg916",
+          "label": "September 8, 2025 - Chap 18-PG916"
+        },
+        {
+          "slug": "comic/chap-18-pg917",
+          "label": "September 11, 2025 - Chap 18-PG917"
+        },
+        {
+          "slug": "comic/chap-18-pg918",
+          "label": "September 15, 2025 - Chap 18-PG918"
+        },
+        {
+          "slug": "comic/chap-18-pg919",
+          "label": "September 18, 2025 - Chap 18-PG919"
+        },
+        {
+          "slug": "comic/chap-18-pg920",
+          "label": "September 22, 2025 - Chap 18-PG920"
+        },
+        {
+          "slug": "comic/chap-18-pg921",
+          "label": "September 25, 2025 - Chap 18-PG921"
+        },
+        {
+          "slug": "comic/chap-18-pg922",
+          "label": "September 29, 2025 - Chap 18-PG922"
+        },
+        {
+          "slug": "comic/chap-18-pg923",
+          "label": "October 2, 2025 - Chap 18-PG923"
+        },
+        {
+          "slug": "comic/chap-18-pg924",
+          "label": "October 6, 2025 - Chap 18-PG924"
+        },
+        {
+          "slug": "comic/chap-18-pg925",
+          "label": "October 9, 2025 - Chap 18-PG925"
+        },
+        {
+          "slug": "comic/chap-18-pg926",
+          "label": "October 13, 2025 - Chap 18-PG926"
+        },
+        {
+          "slug": "comic/chap-18-pg927",
+          "label": "October 16, 2025 - Chap 18-PG927"
+        },
+        {
+          "slug": "comic/chap-18-pg928",
+          "label": "October 20, 2025 - Chap 18-PG928"
+        },
+        {
+          "slug": "comic/chap-18-pg929",
+          "label": "October 23, 2025 - Chap 18-PG929"
+        },
+        {
+          "slug": "comic/chap-18-pg930",
+          "label": "October 26, 2025 - Chap 18-PG930"
+        },
+        {
+          "slug": "comic/chap-18-pg931",
+          "label": "October 30, 2025 - Chap 18-PG931"
+        },
+        {
+          "slug": "comic/chap-18-pg932",
+          "label": "November 3, 2025 - Chap 18-PG932"
+        },
+        {
+          "slug": "comic/chap-18-pg933",
+          "label": "November 6, 2025 - Chap 18-PG933"
+        },
+        {
+          "slug": "comic/chap-18-pg934",
+          "label": "November 10, 2025 - Chap 18-PG934"
+        },
+        {
+          "slug": "comic/chap-18-pg935",
+          "label": "November 13, 2025 - Chap 18-PG935"
+        },
+        {
+          "slug": "comic/chap-18-pg936",
+          "label": "November 17, 2025 - Chap 18-PG936"
+        },
+        {
+          "slug": "comic/chap-18-pg937",
+          "label": "November 20, 2025 - Chap 18-PG937"
+        },
+        {
+          "slug": "comic/chap-18-pg938",
+          "label": "November 23, 2025 - Chap 18-PG938"
+        },
+        {
+          "slug": "comic/chap-18-pg939",
+          "label": "November 27, 2025 - Chap 18-PG939"
+        },
+        {
+          "slug": "comic/chap-18-pg940",
+          "label": "December 1, 2025 - Chap 18-PG940"
+        },
+        {
+          "slug": "comic/chap-18-pg941",
+          "label": "December 4, 2025 - Chap 18-PG941"
+        },
+        {
+          "slug": "comic/chap-18-pg942",
+          "label": "December 8, 2025 - Chap 18-PG942"
+        },
+        {
+          "slug": "comic/chap-18-pg943",
+          "label": "December 11, 2025 - Chap 18-PG943"
+        },
+        {
+          "slug": "comic/chap-18-pg944",
+          "label": "December 15, 2025 - Chap 18-PG944"
+        },
+        {
+          "slug": "comic/chap-18-pg945",
+          "label": "December 17, 2025 - Chap 18-PG945"
+        },
+        {
+          "slug": "comic/chap-18-pg946",
+          "label": "December 22, 2025 - Chap 18-PG946"
+        },
+        {
+          "slug": "comic/chap-18-pg947",
+          "label": "December 26, 2025 - Chap 18-PG947"
+        },
+        {
+          "slug": "comic/chap-18-pg948",
+          "label": "December 29, 2025 - Chap 18-PG948"
+        },
+        {
+          "slug": "comic/chap-18-pg949",
+          "label": "January 1, 2026 - Chap 18-PG949"
+        },
+        {
+          "slug": "comic/chap-18-pg950",
+          "label": "January 5, 2026 - Chap 18-PG950"
+        },
+        {
+          "slug": "comic/chap-18-pg951",
+          "label": "January 8, 2026 - Chap 18-PG951"
+        },
+        {
+          "slug": "comic/chap-18-pg952",
+          "label": "January 12, 2026 - Chap 18-PG952"
+        },
+        {
+          "slug": "comic/chap-18-pg953",
+          "label": "January 15, 2026 - Chap 18-PG953"
+        },
+        {
+          "slug": "comic/chap-18-pg954",
+          "label": "January 19, 2026 - Chap 18-PG954"
+        },
+        {
+          "slug": "comic/chap-18-pg955",
+          "label": "January 21, 2026 - Chap 18-PG955"
+        },
+        {
+          "slug": "comic/chap-18-pg956",
+          "label": "January 26, 2026 - Chap 18-PG956"
+        },
+        {
+          "slug": "comic/chap-18-pg957",
+          "label": "January 29, 2026 - Chap 18-PG957"
+        },
+        {
+          "slug": "comic/chap-18-pg958",
+          "label": "February 2, 2026 - Chap 18-PG958"
+        },
+        {
+          "slug": "comic/chap-18-pg959",
+          "label": "February 5, 2026 - Chap 18-PG959"
+        },
+        {
+          "slug": "comic/chap-18-pg960",
+          "label": "February 9, 2026 - Chap 18-PG960"
+        },
+        {
+          "slug": "comic/chap-18-pg961",
+          "label": "February 12, 2026 - Chap 18-PG961"
+        },
+        {
+          "slug": "comic/chap-18-pg962",
+          "label": "February 16, 2026 - Chap 18-PG962"
+        },
+        {
+          "slug": "comic/chap-18-pg963",
+          "label": "February 19, 2026 - Chap 18-PG963"
+        },
+        {
+          "slug": "comic/chap-18-pg964",
+          "label": "February 23, 2026 - Chap 18-PG964"
+        },
+        {
+          "slug": "comic/chap-18-pg964-2",
+          "label": "February 26, 2026 - Chap 18-PG965"
+        },
+        {
+          "slug": "comic/chap-18-pg965",
+          "label": "March 2, 2026 - Chap 18-PG966"
+        },
+        {
+          "slug": "comic/chap-18-pg966",
+          "label": "March 5, 2026 - Chap 18-PG967"
+        },
+        {
+          "slug": "comic/chap-18-pg967",
+          "label": "March 9, 2026 - Chap 18-PG968"
+        },
+        {
+          "slug": "comic/chap-18-pg968",
+          "label": "March 12, 2026 - Chap 18-PG969"
+        },
+        {
+          "slug": "comic/chap-18-pg969",
+          "label": "March 16, 2026 - Chap 18-PG970"
+        },
+        {
+          "slug": "comic/chap-18-pg970",
+          "label": "March 19, 2026 - Chap 18-PG971"
+        },
+        {
+          "slug": "comic/chap-18-pg971",
+          "label": "March 22, 2026 - Chap 18-PG972"
+        },
+        {
+          "slug": "comic/chap-18-pg972",
+          "label": "March 26, 2026 - Chap 18-PG973"
+        },
+        {
+          "slug": "comic/chap-18-pg973",
+          "label": "March 30, 2026 - Chap 18-PG974"
+        },
+        {
+          "slug": "comic/chap-18-pg974",
+          "label": "April 2, 2026 - Chap 18-PG975"
+        },
+        {
+          "slug": "comic/chap-18-pg974-2",
+          "label": "April 6, 2026 - Chap 18-PG976"
+        },
+        {
+          "slug": "comic/chap-18-pg975",
+          "label": "April 9, 2026 - Chap 18-PG977"
+        },
+        {
+          "slug": "comic/chap-18-pg976",
+          "label": "April 13, 2026 - Chap 18-PG978"
+        },
+        {
+          "slug": "comic/chap-18-pg977",
+          "label": "April 16, 2026 - Chap 18-PG979"
+        },
+        {
+          "slug": "comic/chap-18-pg978",
+          "label": "April 20, 2026 - Chap 18-PG980"
+        },
+        {
+          "slug": "comic/chap-18-pg979",
+          "label": "April 23, 2026 - Chap 18-PG981"
+        },
+        {
+          "slug": "comic/chap-18-pg980",
+          "label": "April 26, 2026 - Chap 18-PG982"
+        },
+        {
+          "slug": "comic/chap-18-pg981",
+          "label": "April 30, 2026 - Chap 18-PG983"
+        },
+        {
+          "slug": "comic/chap-18-pg982",
+          "label": "May 4, 2026 - Chap 18-PG984"
+        },
+        {
+          "slug": "comic/chap-18-pg985",
+          "label": "May 7, 2026 - Chap 18-PG985"
+        },
+        {
+          "slug": "comic/chap-18-pg985-2",
+          "label": "May 11, 2026 - Chap 18-PG986"
+        },
+        {
+          "slug": "comic/chap-18-pg987",
+          "label": "May 14, 2026 - Chap 18-PG987"
+        },
+        {
+          "slug": "comic/chap-18-pg988",
+          "label": "May 18, 2026 - Chap 18-PG988"
+        },
+        {
+          "slug": "comic/chap-18-pg989",
+          "label": "May 21, 2026 - Chap 18-PG989"
+        },
+        {
+          "slug": "comic/chap-18-pg990",
+          "label": "May 25, 2026 - Chap 18-PG990"
+        },
+        {
+          "slug": "comic/chap-18-pg991",
+          "label": "May 28, 2026 - Chap 18-PG991"
+        },
+        {
+          "slug": "comic/chap-18-pg992",
+          "label": "June 1, 2026 - Chap 18-PG992"
+        },
+        {
+          "slug": "comic/chap-18-pg993",
+          "label": "June 4, 2026 - Chap 18-PG993"
+        },
+        {
+          "slug": "comic/chap-18-pg994",
+          "label": "June 8, 2026 - Chap 18-PG994"
+        },
+        {
+          "slug": "comic/chap-18-pg995",
+          "label": "June 11, 2026 - Chap 18-PG995"
+        },
+        {
+          "slug": "comic/chap-18-pg996",
+          "label": "June 15, 2026 - Chap 18-PG996"
+        },
+        {
+          "slug": "comic/haven-and-the-fallen-giants-preview-page",
+          "label": "June 23, 2026 - Haven and the Fallen Giants Preview Page"
+        },
+        {
+          "slug": "comic/happy-pride-2026",
+          "label": "June 29, 2026 - Happy Pride 2026!!"
+        },
+        {
+          "slug": "comic/havennovae-crossover-pg-01",
+          "label": "July 9, 2026 - Haven/Novae Crossover PG 01"
+        },
+        {
+          "slug": "comic/havennovae-crossover-pg-02",
+          "label": "July 13, 2026 - Haven/Novae Crossover PG 02"
+        },
+        {
+          "slug": "comic/havennovae-crossover-pg-03",
+          "label": "July 16, 2026 - Haven/Novae Crossover PG 03"
+        },
+        {
+          "slug": "comic/havennovae-crossover-pg-04",
+          "label": "July 19, 2026 - Haven/Novae Crossover PG 04"
+        },
+        {
+          "slug": "comic/havennovae-crossover-pg-05",
+          "label": "July 23, 2026 - Haven/Novae Crossover PG 05"
+        },
+        {
+          "slug": "comic/havennovae-crossover-pg-06",
+          "label": "July 27, 2026 - Haven/Novae Crossover PG 06"
+        },
+        {
+          "slug": "comic/havennovae-crossover-pg-07",
+          "label": "July 30, 2026 - Haven/Novae Crossover PG 07"
+        },
+        {
+          "slug": "comic/novae-return-date",
+          "label": "August 4, 2026 - Novae Return Date"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Threshold",
+      "pages": [
+        {
+          "slug": "comic/chapter-19-threshold",
+          "label": "August 17, 2026 - Chapter 19 - Threshold"
+        },
+        {
+          "slug": "comic/chap-19-pg997",
+          "label": "August 20, 2026 - Chap 19-PG997"
+        },
+        {
+          "slug": "comic/chap-19-pg998",
+          "label": "August 24, 2026 - Chap 19-PG998"
+        },
+        {
+          "slug": "comic/chap-19-pg999",
+          "label": "August 27, 2026 - Chap 19-PG999"
+        },
+        {
+          "slug": "comic/chap-19-pg1000",
+          "label": "August 31, 2026 - Chap 19-PG1000"
+        }
+      ]
+    }
+  ]
+}

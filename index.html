@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#111">
+<meta name="description" content="Novae - Offline Comic Reader">
+<link rel="manifest" href="app.webmanifest">
+<title>Novae Reader</title>
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { height: 100%; background: #0a0a0a; color: #ccc; font-family: system-ui, -apple-system, sans-serif; overflow: hidden; }
+
+#reader { position: fixed; inset: 0; display: flex; flex-direction: column; }
+#image-area { flex: 1; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; }
+#image-area img { max-width: 100%; max-height: 100%; object-fit: contain; user-select: none; -webkit-user-drag: none; }
+#preload { display: none; }
+
+#comic-img { opacity: 0; transition: opacity .2s; }
+#comic-img.loaded { opacity: 1; }
+#loading { position: absolute; color: #555; font-size: 14px; }
+
+.tap-zone { position: absolute; top: 0; bottom: 0; width: 40%; z-index: 2; cursor: pointer; }
+#tap-prev { left: 0; }
+#tap-next { right: 0; }
+
+#footer { background: rgba(17,17,17,.95); padding: 10px 16px; display: flex; justify-content: space-between; align-items: center; font-size: 13px; cursor: pointer; user-select: none; -webkit-tap-highlight-color: transparent; border-top: 1px solid #222; z-index: 3; }
+#footer .chapter { color: #888; }
+#footer .page { color: #aaa; }
+
+#overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,.85); z-index: 10; overflow-y: auto; padding: 20px; }
+#overlay.open { display: flex; flex-direction: column; align-items: center; }
+#overlay h2 { color: #fff; margin: 8px 0 16px; font-size: 20px; }
+#overlay .close { align-self: flex-end; background: none; border: none; color: #888; font-size: 28px; cursor: pointer; padding: 8px; }
+
+.chapter-list { width: 100%; max-width: 500px; }
+.chapter-item { display: block; padding: 12px 16px; color: #ccc; text-decoration: none; border-bottom: 1px solid #222; cursor: pointer; }
+.chapter-item:hover { background: #1a1a1a; }
+.chapter-item .num { color: #666; font-size: 12px; }
+.chapter-item .title { font-size: 15px; }
+
+.page-list { width: 100%; max-width: 500px; display: grid; grid-template-columns: repeat(auto-fill, minmax(140px,1fr)); gap: 6px; }
+.page-item { padding: 8px 12px; color: #999; font-size: 13px; cursor: pointer; border-radius: 4px; text-align: center; }
+.page-item:hover { background: #1a1a1a; color: #fff; }
+.page-item.active { background: #333; color: #fff; }
+.page-item .label { font-size: 11px; color: #666; display: block; margin-top: 2px; }
+
+.back-link { display: block; margin-bottom: 16px; color: #888; cursor: pointer; font-size: 14px; }
+.back-link:hover { color: #fff; }
+
+@media (min-width: 768px) {
+  #footer { padding: 14px 24px; font-size: 14px; }
+  .page-list { grid-template-columns: repeat(auto-fill, minmax(180px,1fr)); }
+}
+</style>
+</head>
+<body>
+
+<div id="reader">
+  <div id="image-area">
+    <div id="loading">Loading...</div>
+    <img id="comic-img" src="" alt="Comic page" />
+    <div id="tap-prev" class="tap-zone"></div>
+    <div id="tap-next" class="tap-zone"></div>
+  </div>
+  <div id="footer">
+    <span class="chapter"></span>
+    <span class="page"></span>
+  </div>
+</div>
+
+<div id="overlay">
+  <button class="close">&times;</button>
+  <div id="overlay-content"></div>
+</div>
+
+<img id="preload" src="" alt="" />
+
+<script>
+const STATE_KEY = 'novae_reader_state'
+const data = {
+  chapters: []
+}
+
+let state = {
+  chapterIdx: 0,
+  pageIdx: 0
+}
+
+const $ = (s) => document.querySelector(s)
+const img = $('#comic-img')
+const preload = $('#preload')
+const loading = $('#loading')
+const footer = $('#footer')
+const chapterEl = footer.querySelector('.chapter')
+const pageEl = footer.querySelector('.page')
+const overlay = $('#overlay')
+const overlayContent = $('#overlay-content')
+
+function imagePath(slug) {
+  const safeName = slug.replace(/\//g, '-')
+  return `pages/${safeName}.jpg`
+}
+
+function loadPage() {
+  const ch = data.chapters[state.chapterIdx]
+  const page = ch.pages[state.pageIdx]
+  const src = imagePath(page.slug)
+
+  img.classList.remove('loaded')
+  loading.style.display = 'block'
+
+  const newImg = new Image()
+  newImg.onload = () => {
+    img.src = src
+    img.classList.add('loaded')
+    loading.style.display = 'none'
+  }
+  newImg.onerror = () => {
+    loading.textContent = 'Image not found (try syncing)'
+    loading.style.display = 'block'
+  }
+  newImg.src = src
+
+  chapterEl.textContent = `Ch. ${ch.number}: ${ch.title}`
+  pageEl.textContent = `Page ${state.pageIdx + 1} of ${ch.pages.length}`
+
+  preload.src = state.pageIdx + 1 < ch.pages.length
+    ? imagePath(ch.pages[state.pageIdx + 1].slug)
+    : ''
+
+  saveState()
+}
+
+function goPrev() {
+  if (state.pageIdx > 0) {
+    state.pageIdx--
+    loadPage()
+  } else if (state.chapterIdx > 0) {
+    state.chapterIdx--
+    state.pageIdx = data.chapters[state.chapterIdx].pages.length - 1
+    loadPage()
+  }
+}
+
+function goNext() {
+  const ch = data.chapters[state.chapterIdx]
+  if (state.pageIdx + 1 < ch.pages.length) {
+    state.pageIdx++
+    loadPage()
+  } else if (state.chapterIdx + 1 < data.chapters.length) {
+    state.chapterIdx++
+    state.pageIdx = 0
+    loadPage()
+  }
+}
+
+function goToPage(chapterIdx, pageIdx) {
+  state.chapterIdx = chapterIdx
+  state.pageIdx = pageIdx
+  closeOverlay()
+  loadPage()
+}
+
+function saveState() {
+  try {
+    localStorage.setItem(STATE_KEY, JSON.stringify(state))
+  } catch {}
+}
+
+function loadState() {
+  try {
+    const saved = localStorage.getItem(STATE_KEY)
+    if (saved) {
+      const parsed = JSON.parse(saved)
+      if (parsed.chapterIdx !== undefined && parsed.pageIdx !== undefined) {
+        state = parsed
+      }
+    }
+  } catch {}
+}
+
+function openChapterIndex() {
+  const ch = data.chapters[state.chapterIdx]
+  let html = `<div class="back-link" onclick="openMainIndex()">&larr; All Chapters</div>`
+  html += `<h2>Ch. ${ch.number}: ${ch.title}</h2><div class="page-list">`
+  ch.pages.forEach((p, i) => {
+    const active = i === state.pageIdx ? ' active' : ''
+    html += `<div class="page-item${active}" onclick="goToPage(${state.chapterIdx}, ${i})">Page ${i + 1}<span class="label">${p.label}</span></div>`
+  })
+  html += '</div>'
+  overlayContent.innerHTML = html
+  overlay.classList.add('open')
+}
+
+function openMainIndex() {
+  let html = '<h2>Novae — Chapters</h2><div class="chapter-list">'
+  data.chapters.forEach((ch, i) => {
+    const active = i === state.chapterIdx ? ' style="background:#1a1a1a"' : ''
+    html += `<div class="chapter-item"${active} onclick="goToPage(${i}, 0)"><span class="num">Ch. ${ch.number}</span> <span class="title">${ch.title}</span> <span style="color:#555;font-size:12px">(${ch.pages.length} pages)</span></div>`
+  })
+  html += '</div>'
+  overlayContent.innerHTML = html
+  overlay.classList.add('open')
+}
+
+function closeOverlay() {
+  overlay.classList.remove('open')
+}
+
+// Events
+$('#tap-prev').addEventListener('click', goPrev)
+$('#tap-next').addEventListener('click', goNext)
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'ArrowLeft') goPrev()
+  else if (e.key === 'ArrowRight') goNext()
+  else if (e.key === 'Escape') closeOverlay()
+})
+img.addEventListener('click', (e) => {
+  const rect = img.getBoundingClientRect()
+  const x = e.clientX - rect.left
+  if (x < rect.width / 2) goPrev()
+  else goNext()
+})
+footer.addEventListener('click', openChapterIndex)
+overlay.querySelector('.close').addEventListener('click', closeOverlay)
+overlay.addEventListener('click', (e) => { if (e.target === overlay) closeOverlay() })
+
+// Touch swipe
+let touchStartX = 0
+document.addEventListener('touchstart', (e) => { touchStartX = e.changedTouches[0].screenX })
+document.addEventListener('touchend', (e) => {
+  const dx = e.changedTouches[0].screenX - touchStartX
+  if (Math.abs(dx) > 50) {
+    if (dx > 0) goPrev()
+    else goNext()
+  }
+})
+
+// Load
+fetch('manifest.json').then(r => r.json()).then(d => {
+  data.chapters = d.chapters
+  loadState()
+  if (state.chapterIdx >= data.chapters.length) {
+    state.chapterIdx = 0
+    state.pageIdx = 0
+  }
+  loadPage()
+})
+
+// Register service worker
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js')
+}
+</script>
+</body>
+</html>
