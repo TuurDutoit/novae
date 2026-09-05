@@ -12,7 +12,7 @@ python3 -m http.server 8080
 
 ## Syncing New Pages
 
-See `skills/novae-sync/SKILL.md` for the full workflow.
+See `.agents/skills/novae-sync/SKILL.md` for the full workflow.
 
 ## Structure
 

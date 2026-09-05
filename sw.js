@@ -10,8 +10,11 @@ self.addEventListener('activate', (e) => {
 
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url)
+  if (url.origin !== location.origin) return
 
-  if (url.origin === location.origin && (url.pathname.startsWith('/pages/') || url.pathname === '/manifest.json' || url.pathname === '/index.html' || url.pathname === '/app.webmanifest' || url.pathname === '/sw.js')) {
+  const base = self.location.pathname.replace(/\/[^/]*$/, '/')
+  const p = url.pathname
+  if (p.startsWith(base + 'pages/') || p === base + 'manifest.json' || p === base + 'index.html' || p === base + 'app.webmanifest' || p === base + 'sw.js') {
     e.respondWith(
       caches.open(CACHE).then((cache) =>
         cache.match(e.request).then((cached) => {
